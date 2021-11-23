@@ -198,7 +198,7 @@ function readTextFile(file, rollno) {
                             document.getElementById("dslot8").innerHTML = "FREE!";
 
                         }
-                        document.getElementById("alias").innerHTML = alias + "<br>" + "You have been allotted Divison " + d + ", " + t + " and " + l + ".";
+                        document.getElementById("alias").innerHTML = alias + ",<br>" + "You have been allotted Divison " + d + ", " + t + " and " + l + ".";
                         show("");
 
                         found = true;
@@ -226,10 +226,20 @@ function func() {
 
 function show(outp) {
     var res = document.getElementById("result");
-    res.style.transform = "scale(1)";
+    res.style.display = "block";
+    setTimeout(() => {res.style.transform = "scale(1)"}, 100);
+    // res.style.transform = "scale(1)";
+    var my = document.getElementById("myself");
+    my.style.transform = "scale(0)";
+    my.style.display = "none";
 }
 
 function hide() {
     var res = document.getElementById("result");
-    res.style.transform = "scale(0)"
+    res.style.transform = "scale(0)";
+    setTimeout(() => {res.style.display = "none";}, 1005);
+    // res.style.display = "none";
+    var my = document.getElementById("myself");
+    my.style.transform = "scale(1)";
+    my.style.display = "block";
 }
