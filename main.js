@@ -1,5 +1,3 @@
-// sunday 0, monday 1
-
 var timetable = {
     1: ["C", "A", "B", "D", "F"],
     2: ["E", "A", "C", "D", "F"],
