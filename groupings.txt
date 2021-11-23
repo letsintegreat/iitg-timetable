@@ -1,0 +1,981 @@
+210103001 AARYESH BALERI Mechanical Engineering I T1 L1 b.aaryesh
+210103002 ABHAY KUMAR SINGH Mechanical Engineering I T1 L1 abhay.mech21
+210103003 ABHAY PANDEY Mechanical Engineering I T1 L1 p.abhay
+210103004 ABHIGYAN TRIPATHI Mechanical Engineering I T1 L1 t.abhigyan
+210103005 ABHIJIT SHARMA Mechanical Engineering I T1 L1 abhijit.sharma
+210103006 ABHISHEK GAUTAM Mechanical Engineering I T1 L1 abhishek.mech21
+210103007 ABHISHEK GUPTA Mechanical Engineering I T1 L1 gupta.abhi
+210103008 ABHISHEK KUMAR Mechanical Engineering I T1 L1 ahbishek.k.mech21
+210103009 AGNIVA GHOSH Mechanical Engineering I T1 L1 agniva
+210103010 AKASH CHOWDHURY Mechanical Engineering I T1 L1 akash.chowdhury
+210103011 AKASH KUMAR Mechanical Engineering I T1 L1 akash.kumar
+210103012 AKSHATH KRISHNA R Mechanical Engineering I T1 L1 akshath
+210103013 AKSHITA SWARNKAR Mechanical Engineering I T1 L1 a.swarnkar
+210103014 ANAND KUMAR KESHAV Mechanical Engineering I T1 L1 anand.kk
+210103015 ANIL KUMAR Mechanical Engineering I T1 L1 anil.mech21
+210103016 ANKIT GURWAN Mechanical Engineering I T1 L1 a.gurwan
+210103017 ANKIT KUMAR MAHATHA Mechanical Engineering I T1 L1 a.mahatha
+210103018 ANSH BISARYA Mechanical Engineering I T1 L1 b.ansh
+210103019 ANTARA PARUI Mechanical Engineering I T1 L1 p.antara
+210103020 ANURAG JAYANT PATIL Mechanical Engineering I T1 L1 anurag.patil
+210103021 ANURAJ BHASKAR Mechanical Engineering I T1 L1 b.anuraj
+210103022 ARATRICK MONDAL Mechanical Engineering I T1 L1 m.aratrick
+210103023 ARUSHI MADHESIYA Mechanical Engineering I T1 L1 m.arushi
+210103024 ASHISH BHARAT MOTWANI Mechanical Engineering I T1 L1 a.motwani
+210103025 ASSMIT SHUKLA Mechanical Engineering I T1 L1 s.assmit
+210103026 ATHARV JAROLA Mechanical Engineering I T1 L1 a.jarola
+210103027 AYUSH KOTARYA Mechanical Engineering I T1 L1 a.kotarya
+210103028 AYUSH RANJAN Mechanical Engineering I T1 L1 ayush.ranjan
+210103029 BADEKAI VIJESH RAMACHANDRA BHAT Mechanical Engineering I T1 L1 b.badekai
+210103030 BANDARI PRANEETH Mechanical Engineering I T1 L1 p.bandari
+210103031 BANOTH SHASHIKUMAR Mechanical Engineering I T1 L1 b.shashikumar
+210103032 BASANTI BARO Mechanical Engineering I T1 L1 b.basanti
+210103033 BHUKYA PRAMOD MAHAJAN Mechanical Engineering I T1 L1 m.bhukya
+210103034 BONDELI DIVYA TEJ SINGH Mechanical Engineering I T1 L1 s.bondeli
+210103035 CHAHAK SAKLECHA Mechanical Engineering I T1 L1 s.chahak
+210103036 CHITTUDI ANIL Mechanical Engineering I T1 L1 a.chittudi
+210103037 DAKAPPAGARI SATHVIK Mechanical Engineering I T1 L1 s.dakappagari
+210103038 DEEKSHA THOLIYA Mechanical Engineering I T1 L1 t.deeksha
+210103039 DEEPAN BANERJEE Mechanical Engineering I T1 L1 b.deepan
+210103040 DHUSHYANTHAN K Mechanical Engineering I T1 L1 dhushyanthan
+210103041 DIDDI GOWRI PRIYANKA Mechanical Engineering I T1 L1 p.diddi
+210103042 DIPANSHU GOYAL Mechanical Engineering I T1 L1 g.dipanshu
+210103043 DIVYANSH DADHEECH Mechanical Engineering I T1 L1 d.divyansh
+210103044 DIWAKAR MORYA Mechanical Engineering I T1 L1 m.diwakar
+210103045 DRISHTI BANSAL Mechanical Engineering I T1 L1 b.drishti
+210103046 ERAGANABOINA HARSHAVARDHAN Mechanical Engineering I T1 L1 eraganaboina
+210103047 G ADARSH MANI Mechanical Engineering I T1 L1 g.mani
+210103048 GAURAV KUMAR Mechanical Engineering I T1 L1 gaurav.mech21
+210103049 GORAVA LIKHITHA Mechanical Engineering I T1 L1 l.gorava
+210103050 GUGLAVATH THARUN Mechanical Engineering I T1 L1 t.guglavath
+210103051 GURREDDY PAVANI Mechanical Engineering I T2 L1 p.gurreddy
+210103052 HARDIK PAHWA Mechanical Engineering I T2 L1 p.hardik
+210103053 HARSH KUMAR Mechanical Engineering I T2 L1 harsh.mech21
+210103054 HARSH VARDHAN SINGH Mechanical Engineering I T2 L1 harsh.vs
+210103055 HARSHVARDHAN PARMAR Mechanical Engineering I T2 L1 h.parmar
+210103056 HARSHVARDHAN SANJAY RUIKHEDKAR Mechanical Engineering I T2 L1 h.ruikhedkar
+210103057 HIMAANSHI SINGH Mechanical Engineering I T2 L1 himaanshi
+210103058 JADAV SUNIL Mechanical Engineering I T2 L1 s.jadav
+210103059 JATIN BANSAL Mechanical Engineering I T2 L1 jatin.bansal
+210103060 JOEL JOSEPH A Mechanical Engineering I T2 L1 a.joel
+210103061 JYOTISMAN SARMA Mechanical Engineering I T2 L1 s.jyotisman
+210103062 KALAVAKURI VAMSI Mechanical Engineering I T2 L1 v.kalavakuri
+210103063 KANUMUKKALA HITHESH REDDY Mechanical Engineering I T2 L1 r.kanumukkala
+210103064 KASIREDDY MANOHAR REDDY Mechanical Engineering I T2 L1 kasireddy.reddy
+210103065 KEERTHANA S Mechanical Engineering I T2 L1 s.keerthana
+210103066 KHURAKTE SAHIL GAJANAN Mechanical Engineering I T2 L1 g.khurakte
+210103067 KUMAR SHIVANG Mechanical Engineering I T2 L1 k.shivang
+210103068 LOLUGU NITYASRI Mechanical Engineering I T2 L1 l.nityasri
+210103069 MAYANK RANJAN BHAKAT Mechanical Engineering I T2 L1 m.bhakat
+210103070 MOHIT MEENA Mechanical Engineering I T2 L1 mohit.meena
+210103071 MOOTI MEGHANA Mechanical Engineering I T2 L1 m.mooti
+210103072 MUTTHOJU KEERTHI RAJU Mechanical Engineering I T2 L1 r.mutthoju 
+210103073 NAVEEN KUMAR A G Mechanical Engineering I T2 L1 naveen.g
+210103074 NEERAJ PANDEY Mechanical Engineering I T2 L1 p.neeraj
+210103075 NETRA PUJAR Mechanical Engineering I T2 L1 p.netra
+210103076 NIKHIL KUMAR Mechanical Engineering I T2 L1 nikhil.mech21
+210103077 NIKHIL VERMA Mechanical Engineering I T2 L1 nikhil.v
+210103078 NITESH GARG Mechanical Engineering I T2 L1 n.garg
+210103079 NITIN KUMAR Mechanical Engineering I T2 L1 nitin.k
+210103080 PAARTH KUMAR Mechanical Engineering I T2 L1 paarth
+210103081 PARUL BHAGAT Mechanical Engineering I T2 L1 p.bhagat
+210103082 PIYUSH VAISH Mechanical Engineering I T2 L1 p.vaish
+210103083 POORVA UPMAN Mechanical Engineering I T2 L1 p.upman
+210103084 POTE SWARAJ ANIL Mechanical Engineering I T2 L1 a.pote 
+210103085 PRATIMA TOMAR Mechanical Engineering I T2 L1 p.tomar
+210103086 RAGHAV SHARMA Mechanical Engineering I T2 L1 raghav.sharma
+210103087 RAJEEV Mechanical Engineering I T2 L1 rajeev.mech21
+210103088 RAJEEV SUTRAKAR Mechanical Engineering I T2 L1 r.sutrakar
+210103089 RAKSHIT DAHIYA Mechanical Engineering I T2 L1 r.dahiya
+210103090 RAMAN PAL Mechanical Engineering I T2 L1 r.pal
+210103091 RAMAVATH ASHISH RATHOD Mechanical Engineering I T2 L1 r.rathod
+210103092 RIMJHIM DEWAN Mechanical Engineering I T2 L1 r.dewan
+210103093 RISHABH MAHAJAN Mechanical Engineering I T2 L1 r.mahajan
+210103094 RISHAV RAJ Mechanical Engineering I T2 L1 raj.rishav
+210103095 RONGALA LIKHITA SAI PRIYA Mechanical Engineering I T2 L1 p.rongala
+210103096 SAKSHI MAHESH SAKHARE Mechanical Engineering I T2 L1 s.sakhare
+210103097 SANU SOURAV Mechanical Engineering I T2 L1 s.sanu
+210103098 SARTHAK GAUR Mechanical Engineering I T2 L2 sarthak.gaur
+210103099 SAURABH KUMAR Mechanical Engineering I T2 L2 saurabh.mech21
+210103100 SAYAN SOMYA Mechanical Engineering I T2 L2 sayan.somya
+210103101 SHASHWAT MISHRA Mechanical Engineering I T3 L2 shashwat.mech21
+210103102 SHIVAM RAGHUWANSHI Mechanical Engineering I T3 L2 r.shivam
+210103103 SHUKLA KRISHANG TEJAS Mechanical Engineering I T3 L2 t.shukla
+210103104 SOHIL MONPARA Mechanical Engineering I T3 L2 m.sohil
+210103105 SONGIRE PARTH SUNILKUMAR Mechanical Engineering I T3 L2 s.songire
+210103106 SOURAJA KUNDU Mechanical Engineering I T3 L2 k.souraja
+210103107 SREYAS M S Mechanical Engineering I T3 L2 s.sreyas
+210103108 TANMAY TOTLA Mechanical Engineering I T3 L2 t.totla
+210103109 TANUSHREE DEOGADE Mechanical Engineering I T3 L2 t.deogade
+210103110 TAWARE ATHARV BHAUSAHEB Mechanical Engineering I T3 L2 t.bhausaheb
+210103111 TENDULKAR BHADRA DATTATRAYA Mechanical Engineering I T3 L2 t.bhadra
+210103112 UJJAWAL CHHAJER Mechanical Engineering I T3 L2 u.chhajer
+210103113 UTKARSH SINGH Mechanical Engineering I T3 L2 utkarsh.singh
+210103114 VIBHA SHEKHAWAT Mechanical Engineering I T3 L2 v.shekhawat
+210103115 VIKAS RANJAN CHAUDHARI Mechanical Engineering I T3 L2 v.chaudhari
+210103116 VIKRANT PRATAP YADAV Mechanical Engineering I T3 L2 y.vikrant
+210103117 VISHAL GARG Mechanical Engineering I T3 L2 vishal.garg
+210103118 VISHAL SINGH Mechanical Engineering I T3 L2 vishal.mech21
+210103119 YASHARTH SINGH Mechanical Engineering I T3 L2 yasharth
+210104001 ABHIJEET ANNASAHEB DUSANE Civil Engineering I T3 L2 a.dusane
+210104002 ABHISHEK PAL Civil Engineering I T3 L2 abhishek.pal
+210104003 ABHISHEK SINGH Civil Engineering I T3 L2 abhishek.civ21
+210104004 ABHISHEK YADAV Civil Engineering I T3 L2 abhishek.y
+210104005 ABHISHIRSH SACHAN Civil Engineering I T3 L2 s.abhishirsh
+210104006 ADARSH KUMAR Civil Engineering I T3 L2 adarsh.civ21
+210104007 ADITYA MATHUR Civil Engineering I T3 L2 aditya.mathur
+210104008 ADITYA SUNIT PAUL Civil Engineering I T3 L2 aditya.paul
+210104009 ADITYA TIWARY Civil Engineering I T3 L2 t.aditya
+210104010 ADYA JASSAL Civil Engineering I T3 L2 j.adya
+210104011 AKHILESH GUPTA Civil Engineering I T3 L2 g.akhilesh
+210104012 AKSHAT AREN Civil Engineering I T3 L2 a.aren
+210104013 AKSHAT PRATAP SINGH Civil Engineering I T3 L2 akshat.singh
+210104014 AKSHAY KUMAR JHA Civil Engineering I T3 L2 akshay.kj
+210104015 AKSHIT SHISHODIA Civil Engineering I T3 L2 s.akshit
+210104016 AMAN RAJ Civil Engineering I T3 L2 aman.raj
+210104017 AMIT KUMAR Civil Engineering I T3 L2 amit.kum
+210104018 ANKIT BENIWAL Civil Engineering I T3 L2 ankit.beniwal
+210104019 ANKUR KUMAR Civil Engineering I T3 L2 ankur.kum
+210104020 ANURAG Civil Engineering I T3 L2 anurag.anurag
+210104021 ARNAV RAJ Civil Engineering I T3 L2 r.arnav
+210104022 ARYAN SOLANKI Civil Engineering I T3 L2 a.solanki
+210104023 ASHU KUMAR Civil Engineering I T3 L2 ashu.kumar
+210104024 ASHUTOSH MISHRA Civil Engineering I T3 L2 m.ashutosh
+210104025 ASTHA GUPTA Civil Engineering I T3 L2 g.astha
+210104026 AVISHKAR Civil Engineering I T3 L2 a.avishkar
+210104027 AYUSH ANAND Civil Engineering I T3 L2 ayush.anand
+210104028 AYUSH DINESH PATIL Civil Engineering I T3 L2 ayush.patil
+210104029 BAISHALI BORAH Civil Engineering I T3 L2 b.baishali 
+210104030 BHASKAR DEV Civil Engineering I T3 L2 bhaskar.dev
+210104031 BOROLE PRASAD BALAJI Civil Engineering I T3 L2 borole.balaji
+210104032 CHHAVI Civil Engineering I T4 L2 chhavi.civ21
+210104033 DAMLALSIEM Civil Engineering I T4 L2 damlalsiem
+210104034 DEEKSHA SANORIYA Civil Engineering I T4 L2 d.sanoriya
+210104035 DEVARAKONDA SRAVYA VARDHANI Civil Engineering I T4 L2 d.vardhani
+210104036 DIPANSHU MEENA Civil Engineering I T4 L2 dipanshu
+210104037 DOMALA SHINJINI Civil Engineering I T4 L2 domala
+210104038 EADA LIKHITHA Civil Engineering I T4 L2 eada
+210104039 FARIS MOHAMED K Civil Engineering I T4 L2 k.faris
+210104040 GADDAM MEGHANA Civil Engineering I T4 L2 m.gaddam
+210104041 HARDIK KUMAR SINGH Civil Engineering I T4 L2 s.hardik
+210104042 HARSH RAJ Civil Engineering I T4 L2 r.harsh
+210104043 HARSH SAW Civil Engineering I T4 L2 h.saw
+210104044 HARSH VARDHAN Civil Engineering I T4 L2 h.vardhan
+210104045 HARSHIT GARG Civil Engineering I T4 L2 harshit.garg
+210104046 HRISHI INANI Civil Engineering I T4 L2 i.hrishi
+210104047 IMNASEN AIER Civil Engineering I T4 L2 a.imnasen
+210104048 ISHA KHARKIA Civil Engineering I T4 L2 k.isha
+210104049 KANIKA TYAGI Civil Engineering I T4 L2 t.kanika
+210104050 KARANVEER HANSA Civil Engineering I T4 L2 h.karanveer
+210104051 KATLA ROHITH KUMAR REDDY Civil Engineering I T4 L2 r.katla
+210104052 KUMAR KISLAY Civil Engineering I T4 L2 k.kislay
+210104053 KUSHAL AGARWAL Civil Engineering I T4 L2 kushal.agarwal
+210104054 MAMIDI SANDEEP Civil Engineering I T4 L2 s.mamidi
+210104055 MANASWEE SHARMA Civil Engineering I T4 L2 s.manaswee
+210104056 MANMOHAN Civil Engineering I T4 L2 manmohan.civ21
+210104057 MEDAM DASARADHA RAMI REDDY Civil Engineering I T4 L2 r.medam
+210104058 MOHIT SHARMA Civil Engineering I T4 L2 mohit.sharma21
+210104059 MOIRANGTHEM HOLLYWOOD SINGH Civil Engineering I T4 L2 s.moirangthem
+210104060 MOUSAM KUMARI Civil Engineering I T4 L2 k.mousam
+210104061 MRIDUL SINGH YADAV Civil Engineering I T4 L2 y.mridul
+210104062 MUDIT SINGH RAJPUT Civil Engineering I T4 L2 r.mudit
+210104063 NAMAN SRIVASTAVA Civil Engineering I T4 L2 s.naman
+210104064 NEERAJ A R Civil Engineering I T4 L2 r.neeraj
+210104065 PADI DANYI Civil Engineering I T4 L2 d.padi
+210104066 PANKAJ KUMAR MEENA Civil Engineering I T4 L2 pankaj.civ21
+210104067 PARMESHWAR MALI Civil Engineering I T4 L2 m.parmeshwar
+210104068 PERURI BHAVANA Civil Engineering I T4 L2 b.peruri
+210104069 PRAKHAR GUPTA Civil Engineering I T4 L2 prakhar.gupta
+210104070 PRANAY KUMAR PARATE Civil Engineering I T4 L2 p.parate
+210104071 PRANSHU KUMAR Civil Engineering I T4 L2 pranshu.kumar
+210104072 PRASHANT SAURABH Civil Engineering I T4 L2 prashant.saurabh
+210104073 PRATYUSH Civil Engineering I T4 L2 pratyush.civ21
+210104074 PRATYUSH GAUTAM Civil Engineering I T4 L2 g.pratyush
+210104075 PRERNA KUMARI Civil Engineering I T4 L2 k.prerna
+210104076 PRIYANSH SANJEEV SHRIVASTAV Civil Engineering I T4 L3 s.priyansh
+210104077 PRIYANSHU Civil Engineering I T4 L3 priyanshu.civ21
+210104078 PUNDARIKAKSHA MOHANTY Civil Engineering I T4 L3 p.mohanty
+210104079 RAGHAV DODA Civil Engineering I T4 L3 r.doda
+210104080 RAJ KUMAR Civil Engineering I T4 L3 raj_kumar
+210104081 RAMAVARAM ROHITH REDDY Civil Engineering I T4 L3 ramavaram
+210104082 RAVI RAJ Civil Engineering I T5 L3 ravi.raj
+210104083 RAVICHANDRA Civil Engineering I T5 L3 r.ravichandra
+210104084 RICHA RANI Civil Engineering I T5 L3 r.richa
+210104085 RISHI JAIN Civil Engineering I T5 L3 j.rishi
+210104086 RISHIT GUPTA Civil Engineering I T5 L3 g.rishit
+210104087 RITIKPAL SINGH Civil Engineering I T5 L3 s.ritikpal
+210104088 ROHAK JAIN Civil Engineering I T5 L3 j.rohak
+210104089 ROHAN KUMAR ISHWAR Civil Engineering I T5 L3 i.rohan
+210104090 ROHAN TITORIA Civil Engineering I T5 L3 t.rohan
+210104091 ROOPAM KAPOOR Civil Engineering I T5 L3 k.roopam
+210104092 RUDRA SHANKHA NANDY Civil Engineering I T5 L3 n.rudra
+210104093 SACHIN KUMAR Civil Engineering I T5 L3 sachin.civ21
+210104094 SANTOSH CHOUHAN Civil Engineering I T5 L3 santosh.chouhan
+210104095 SASHIAKUM P MARAK Civil Engineering I T5 L3 m.sashiakum
+210104096 SATYAM JAISWAL Civil Engineering I T5 L3 j.satyam
+210104097 SHIKHA SINGH Civil Engineering I T5 L3 shikha.singh
+210104098 SHIKHAR SHARMA Civil Engineering I T5 L3 shikhar
+210104099 SHIVAM ANAND Civil Engineering I T5 L3 shivam.anand
+210104100 SHIVANSH Civil Engineering I T5 L3 s.shivansh
+210104101 SHRADDHA GUPTA Civil Engineering I T5 L3 g.shraddha
+210104102 SHREYANSHI SHARMA Civil Engineering I T5 L3 s.shreyanshi
+210104103 SHREYAS PIMPALKAR Civil Engineering I T5 L3 p.shreyas
+210104104 SHUBHAM CHANDA Civil Engineering I T5 L3 shubham.chanda
+210104105 SHUBHANKIT ACHARYA Civil Engineering I T5 L3 shubhankit
+210104106 SIDHARTH YADAV Civil Engineering I T5 L3 y.sidharth
+210104107 STELLA ANTONY Civil Engineering I T5 L3 a.stella
+210104108 SUHANI KALRA Civil Engineering I T5 L3 k.suhani
+210104109 SURAJ MEENA Civil Engineering I T5 L3 suraj.meena
+210104110 SWASTIK SWAROOP Civil Engineering I T5 L3 s.swastik
+210104111 T.SRIYA REDDY Civil Engineering I T5 L3 r.t.sriya
+210104112 TANUJ CHAUDHARY Civil Engineering I T5 L3 c.tanuj
+210104113 UTKARSH UTPAL Civil Engineering I T5 L3 u.utpal
+210104114 VAISHNAVI VERMA Civil Engineering I T5 L3 v.vaishnavi
+210104115 VANDAN SHARMA Civil Engineering I T5 L3 s.vandan
+210104116 VIOLINA KASHYAP Civil Engineering I T5 L3 k.violina
+210104117 VIVEK Civil Engineering I T5 L3 vivek.civ21
+210104118 YUVRAJ SINGH RAWAL Civil Engineering I T5 L3 r.yuvraj
+210102001 AASTHA SINGH RAI Electronics and Communication Engineering II T5 L3 r.aastha
+210102002 ABHAY VERMA Electronics and Communication Engineering II T5 L3 abhay.verma
+210102003 ABHISHEK REDDY THORRA Electronics and Communication Engineering II T5 L3 a.thorra
+210102004 ADITYA BHUSHAN Electronics and Communication Engineering II T5 L3 a.bhushan
+210102005 ADITYA GARG Electronics and Communication Engineering II T5 L3 aditya.garg
+210102006 ADITYA GUPTA Electronics and Communication Engineering II T5 L3 aditya.eee21
+210102007 ADITYA KARANTH Electronics and Communication Engineering II T5 L3 a.karanth
+210102008 ADITYA KUMAR Electronics and Communication Engineering II T5 L3 adityakumar
+210102009 ADVAITAA ARUN Electronics and Communication Engineering II T5 L3 advaitaa
+210102010 AILINENI PUNEETH Electronics and Communication Engineering II T5 L3 ailineni
+210102011 AKSHAT Electronics and Communication Engineering II T5 L3 akshat.akshat
+210102012 AKSHIT SHARMA Electronics and Communication Engineering II T5 L3 akshit
+210102013 AMAN RAJ Electronics and Communication Engineering II T5 L3 aman.eee21
+210102014 AMAN RAVI SINGH Electronics and Communication Engineering II T6 L3 aman.singh
+210102015 AMIT KUSHWAHA Electronics and Communication Engineering II T6 L3 amit.kushwaha
+210102016 AMOGH TIWARI Electronics and Communication Engineering II T6 L3 t.amogh
+210102017 AMRISHA VARDIYA Electronics and Communication Engineering II T6 L3 v.amrisha
+210102018 ANCHAL Electronics and Communication Engineering II T6 L3 a.anchal
+210102019 ANIRUDDHA MOON Electronics and Communication Engineering II T6 L3 a.moon
+210102020 ANSHU APOORVA Electronics and Communication Engineering II T6 L3 a.apoorva
+210102021 ARHITA KUNDU Electronics and Communication Engineering II T6 L3 arhita
+210102022 BANDARU SHASHANK Electronics and Communication Engineering II T6 L3 bandaru.shashank
+210102023 BANOTH JASHWANTH SAI Electronics and Communication Engineering II T6 L3 s.banoth
+210102024 BHARTI Electronics and Communication Engineering II T6 L3 b.bharti
+210102025 CHINTALAPUDI YADEEDYA RAO Electronics and Communication Engineering II T6 L3 r.chintalapudi
+210102026 DEEPAK SINGH Electronics and Communication Engineering II T6 L3 deepak.singh
+210102027 DHANESH V Electronics and Communication Engineering II T6 L3 dhanesh.v
+210102028 DHARMANA PURVI Electronics and Communication Engineering II T6 L3 p.dharmana
+210102029 DIYA ARUN Electronics and Communication Engineering II T6 L3 a.diya
+210102030 DOMALA YAMINI Electronics and Communication Engineering II T6 L3 y.domala
+210102031 EPPALAPALLI ABHIPRANAV Electronics and Communication Engineering II T6 L3 a.eppalapalli
+210102032 G V KRISHNA KIREETI Electronics and Communication Engineering II T6 L3 g.kireeti
+210102033 GEETANJAY MANIK Electronics and Communication Engineering II T6 L3 m.geetanjay
+210102034 GEMBALI MADHAN MOHAN Electronics and Communication Engineering II T6 L3 m.gembali
+210102035 GUGULOTH SHIVA SANDEEP Electronics and Communication Engineering II T6 L3 s.guguloth
+210102036 HARDIK ROONGTA Electronics and Communication Engineering II T6 L3 r.hardik
+210102037 HITESH KUMAR Electronics and Communication Engineering II T6 L3 hitesh.kumar
+210102038 HRISHIKESH Electronics and Communication Engineering II T6 L3 hrishikesh.eee21
+210102039 IPSITA JAIN Electronics and Communication Engineering II T6 L3 j.ipsita
+210102040 JAKKULA SPANDHAN SRIRAG Electronics and Communication Engineering II T6 L3 s.jakkula
+210102041 JUPAKA GAYATHRI Electronics and Communication Engineering II T6 L3 g.jupaka
+210102042 KARAN MARKANDEY Electronics and Communication Engineering II T6 L3 k.markandey
+210102043 KATTAMURI SRI CHAITANYA Electronics and Communication Engineering II T6 L3 c.kattamuri
+210102044 KAUSTUBH KUMAR Electronics and Communication Engineering II T6 L3 k.kaustubh
+210102045 KETAN SINGH Electronics and Communication Engineering II T6 L3 s.ketan
+210102046 KHUSHI BOTHRA Electronics and Communication Engineering II T6 L3 k.bothra
+210102047 KISHAN KUMAR Electronics and Communication Engineering II T6 L3 k.kishan
+210102048 KODURU GAYATRI Electronics and Communication Engineering II T6 L3 g.koduru
+210102049 KORADA UDAY KIRAN Electronics and Communication Engineering II T6 L3 k.korada
+210102050 KOTHAKAPU SAI CHARAN REDDY Electronics and Communication Engineering II T6 L3 r.kothakapu
+210102051 KOUSTUB GURURAJA RAO Electronics and Communication Engineering II T6 L3 r.koustub
+210102052 KUSUMA SAI GANESH Electronics and Communication Engineering II T6 L3 g.kusuma
+210102053 LAKSHYA KOHLI Electronics and Communication Engineering II T6 L3 k.lakshya
+210102054 MANOJ KUMAR AHIRWAR Electronics and Communication Engineering II T6 L3 m.ahirwar
+210102055 MD SAMEER Electronics and Communication Engineering II T6 L4 m.sameer
+210102056 NAVEEN KALWAN Electronics and Communication Engineering II T6 L4 n.kalwan
+210102057 NISHANT BHAGAT Electronics and Communication Engineering II T6 L4 n.bhagat
+210102058 NITISH KUMAR PINNETI Electronics and Communication Engineering II T6 L4 n.pinneti
+210102059 NITYAM PAREEK Electronics and Communication Engineering II T6 L4 nityam
+210102060 PARAMVEER PRAKASH Electronics and Communication Engineering II T6 L4 paramveer
+210102061 PARIDHI BARUAH Electronics and Communication Engineering II T6 L4 b.paridhi
+210102062 PRABHANJAN BALKRISHNA JADHAV Electronics and Communication Engineering II T6 L4 j.prabhanjan
+210102063 PRACHI SINHA Electronics and Communication Engineering II T6 L4 prachi.sinha
+210102064 PRATYUSH R Electronics and Communication Engineering II T7 L4 pratyush.r
+210102065 PRIYANSHU KUMAR RAJ Electronics and Communication Engineering II T7 L4 priyanshu.kr
+210102066 PUJA KUMARI Electronics and Communication Engineering II T7 L4 puja.kumari
+210102067 RAJAT SINGH Electronics and Communication Engineering II T7 L4 rajat.singh
+210102068 RASESH SRIVASTAVA Electronics and Communication Engineering II T7 L4 s.rasesh
+210102069 RAVI KUMAR SAINI Electronics and Communication Engineering II T7 L4 ravi.saini
+210102070 RITESH RANJAN Electronics and Communication Engineering II T7 L4 ritesh.ranjan
+210102071 ROHAN MITRA Electronics and Communication Engineering II T7 L4 rohan.mitra
+210102072 SACHIN KUMAR Electronics and Communication Engineering II T7 L4 sachin.eee21
+210102073 SAGAR KUMAR Electronics and Communication Engineering II T7 L4 sagar.eee21
+210102074 SAIRAJ RAGHAVENDRA GHOSARWADKAR Electronics and Communication Engineering II T7 L4 g.sairaj
+210102075 SANJAY VARUN Electronics and Communication Engineering II T7 L4 sanjay.varun
+210102076 SANKOORU MANIDEEP Electronics and Communication Engineering II T7 L4 sankooru
+210102077 SEELAM ALEXANDER Electronics and Communication Engineering II T7 L4 a.seelam
+210102078 SEELAM HARSHITHA Electronics and Communication Engineering II T7 L4 h.seelam
+210102079 SHANIGARAPU SHASHIKANTH Electronics and Communication Engineering II T7 L4 s.shanigarapu
+210102080 SHIVAM VISHWAKARMA Electronics and Communication Engineering II T7 L4 v.shivam
+210102081 SHIVAM AGARWAL Electronics and Communication Engineering II T7 L4 shivam.agarwal
+210102082 SHIVAM GUPTA Electronics and Communication Engineering II T7 L4 shivam.eee21
+210102083 SHIVAM KUMAR SINGH Electronics and Communication Engineering II T7 L4 shivam.ks
+210102084 SHIVAM NAYAK Electronics and Communication Engineering II T7 L4 n.shivam
+210102085 SHRUTI RAJ Electronics and Communication Engineering II T7 L4 shruti.raj
+210102086 SINGAMANENI SAHITHI Electronics and Communication Engineering II T7 L4 s.singamaneni
+210102087 SOUMYA GUPTA Electronics and Communication Engineering II T7 L4 g.soumya
+210102088 SRIRAM SAI KRISHNA Electronics and Communication Engineering II T7 L4 k.sriram
+210102089 SUDHANSHU CHAURASIA Electronics and Communication Engineering II T7 L4 c.sudhanshu
+210102090 SUSANNA JOSEPH Electronics and Communication Engineering II T7 L4 j.susanna
+210102091 SYED MOHAMMAD ASIF AMAAN Electronics and Communication Engineering II T7 L4 a.syed
+210102092 TAMADANA PAVAN KALYAN Electronics and Communication Engineering II T7 L4 k.tamadana
+210102093 UJJWAL JAGGARWAL Electronics and Communication Engineering II T7 L4 j.ujjwal
+210102094 VAGISHA RAJ Electronics and Communication Engineering II T7 L4 r.vagisha
+210102095 VEDANT RAVINDRA KHARCHE Electronics and Communication Engineering II T7 L4 k.vedant
+210102096 VEDIKA GARG Electronics and Communication Engineering II T7 L4 g.vedika
+210102097 VIBHOR SHARMA Electronics and Communication Engineering II T7 L4 s.vibhor
+210102098 VIDYA SAGAR G Electronics and Communication Engineering II T7 L4 g.vidya
+210102099 VITTA NEERAJ KUMAR Electronics and Communication Engineering II T7 L4 k.vitta
+210102100 YASH KATARIA Electronics and Communication Engineering II T7 L4 y.kataria
+210102101 YEDDULA BASIREDDYGARI GANGA MOHITH REDDY Electronics and Communication Engineering II T7 L4 yeddula
+210102102 YUVRAJ JAISWAL Electronics and Communication Engineering II T7 L4 y.jaiswal
+210106001 AARIJ MODHUBHAI HUSSAIN Biosciences and Bioengineering II T7 L4 aarij
+210106002 ABHINAV PRATAP SINGH Biosciences and Bioengineering II T7 L4 abhinav.ps
+210106003 ABHISHEK DWIVEDI Biosciences and Bioengineering II T7 L4 abhishek.dwivedi
+210106004 ADITYA JINDAL Biosciences and Bioengineering II T7 L4 aditya.jindal
+210106005 AFSHAN PERWEEN Biosciences and Bioengineering II T7 L4 afshan
+210106006 ALINA RIZVI Biosciences and Bioengineering II T7 L4 alina
+210106007 AMAN KUMAR Biosciences and Bioengineering II T7 L4 kumar.aman
+210106008 AMAN RAGHUWANSHI Biosciences and Bioengineering II T7 L4 r.aman
+210106009 AMGOTH NARESH Biosciences and Bioengineering II T7 L4 n.amgoth
+210106010 AMGOTH SHASHI KUMAR Biosciences and Bioengineering II T7 L4 k.amgoth
+210106011 AMOGHA KETAN POTE Biosciences and Bioengineering II T7 L4 p.amogha 
+210106012 ANIL SIYAG Biosciences and Bioengineering II T8 L4 a.siyag
+210106013 AVNISH KARDEKAR Biosciences and Bioengineering II T8 L4 a.kardekar
+210106014 BARUPATI SAIVARUN Biosciences and Bioengineering II T8 L4 b.saivarun
+210106015 BHAYANI JAY ARVINDBHAI Biosciences and Bioengineering II T8 L4 b.arvindbhai
+210106016 BUKKE GOWTHAM NAIK Biosciences and Bioengineering II T8 L4 bukke.gn 
+210106017 DEBOLEENA SAHA Biosciences and Bioengineering II T8 L4 s.deboleena 
+210106018 DESHMUKH SAURABH GANESHRAO Biosciences and Bioengineering II T8 L4 d.ganeshrao
+210106019 DRISHTI AGARWAL Biosciences and Bioengineering II T8 L4 d.agarwal
+210106020 GAUTAM R N JETLEY Biosciences and Bioengineering II T8 L4 g.jetley
+210106021 HARSH GUPTA Biosciences and Bioengineering II T8 L4 gupta.h
+210106022 HIMANSHU AGARWAL Biosciences and Bioengineering II T8 L4 h.agarwal
+210106023 ISHAN AGASHE Biosciences and Bioengineering II T8 L4 i.agashe
+210106024 ISHANT ROHILLA Biosciences and Bioengineering II T8 L4 i.rohilla
+210106025 JANHAVEE SHIRISH PANSE Biosciences and Bioengineering II T8 L4 j.panse
+210106026 JASKIRAT SINGH Biosciences and Bioengineering II T8 L4 jaskirat
+210106027 JAYESH MURLIDHAR SONAWANE Biosciences and Bioengineering II T8 L4 j.sonawane
+210106028 KESHAV GOYAL Biosciences and Bioengineering II T8 L4 g.keshav
+210106029 KHUSHI BHATT Biosciences and Bioengineering II T8 L4 b.khushi
+210106030 KOMAL NIRANIA Biosciences and Bioengineering II T8 L4 n.komal
+210106031 KULKARNI ATHARVA NILESH Biosciences and Bioengineering II T8 L4 n.kulkarni
+210106032 MANGROLIYA DHRUV GHANSHYAMBHAI Biosciences and Bioengineering II T8 L4 g.mangroliya
+210106033 MANISH KUMAR Biosciences and Bioengineering II T8 L4 manish.bio21
+210106034 MOHIT RAJ Biosciences and Bioengineering II T8 L4 mohit.raj
+210106035 MUDAVATH NARESH NAYAK Biosciences and Bioengineering II T8 L4 n.mudavath 
+210106036 NANDINI KATHYAYAN Biosciences and Bioengineering II T8 L4 k.nandini
+210106037 NAVIN PATWARI Biosciences and Bioengineering II T8 L4 p.navin
+210106038 NEEMA TUNDUP Biosciences and Bioengineering II T8 L4 t.neema 
+210106039 NIDHI SINGH Biosciences and Bioengineering II T8 L4 nidhi.singh
+210106040 NIKHIL ASHOK PANSARE Biosciences and Bioengineering II T8 L4 n.pansare
+210106041 OM KUMAR SAINI Biosciences and Bioengineering II T8 L4 o.saini
+210106042 P AASHRITH RAM Biosciences and Bioengineering II T8 L4 p.ram
+210106043 PAPPU URF MOHIT YADAV Biosciences and Bioengineering II T8 L4 y.pappu
+210106044 PARAMJEET SINGH Biosciences and Bioengineering II T8 L4 s.paramjeet
+210106045 PATEL KRISH RAKESHBHAI Biosciences and Bioengineering II T8 L4 p.rakeshbhai
+210106046 PIYUSH KUMAR Biosciences and Bioengineering II T8 L4 piyush.bio21
+210106047 PRADUMN DIXIT Biosciences and Bioengineering II T8 L4 pradumn
+210106048 PRIYANSHU PRASAD Biosciences and Bioengineering II T8 L4 priyanshu.prasad
+210106049 PUNAKSHIT SINGH Biosciences and Bioengineering II T8 L4 punakshit
+210106050 PUSHKAR AMBASTHA Biosciences and Bioengineering II T8 L5 p.ambastha
+210106051 RAHUL KUMAR Biosciences and Bioengineering II T8 L5 rahul.bio21
+210106052 RAHUL SINGH YADAV Biosciences and Bioengineering II T8 L5 rahul.yadav
+210106053 RITESH SHIRKE Biosciences and Bioengineering II T8 L5 s.ritesh
+210106054 RITIK PATEL Biosciences and Bioengineering II T8 L5 p.ritik
+210106055 ROHIT RAJ KOHLI Biosciences and Bioengineering II T8 L5 rohit.kohli
+210106056 RONIT KUMAR KAUSHIK Biosciences and Bioengineering II T8 L5 k.ronit
+210106057 SAMARTH JHUNJHUNWALA Biosciences and Bioengineering II T8 L5 j.samarth
+210106058 SAMPREETI MAZUMDAR Biosciences and Bioengineering II T8 L5 m.sampreeti
+210106059 SAMYAK SHARMA Biosciences and Bioengineering II T8 L5 samyak.sharma
+210106060 SANYA Biosciences and Bioengineering II T8 L5 s.sanya
+210106061 SAYAK BHATTACHARYA Biosciences and Bioengineering II T8 L5 b.sayak
+210106062 SHALEEN KAKKAD Biosciences and Bioengineering II T9 L5 k.shaleen
+210106063 SHASHANK SHARMA Biosciences and Bioengineering II T9 L5 shashank.sharma
+210106064 SHASHWAT PANDEY Biosciences and Bioengineering II T9 L5 p.shashwat
+210106065 SHIKHAR RAJ Biosciences and Bioengineering II T9 L5 r.shikhar
+210106066 SHUBHAM JAISWAL Biosciences and Bioengineering II T9 L5 shubham.jaiswal
+210106067 SHUBHANSHU SAHU Biosciences and Bioengineering II T9 L5 shubhanshu.sahu
+210106068 SIDDHARTH Biosciences and Bioengineering II T9 L5 siddharth.bio21
+210106069 SIDDHI Biosciences and Bioengineering II T9 L5 s.siddhi
+210106070 SNEHA SINGH Biosciences and Bioengineering II T9 L5 sneha.singh
+210106071 SRUTI BAIBHAB MISHRA Biosciences and Bioengineering II T9 L5 m.sruti
+210106072 SUHANI JAIN Biosciences and Bioengineering II T9 L5 j.suhani
+210106073 SUJAY DAGANI Biosciences and Bioengineering II T9 L5 d.sujay
+210106074 SUKANYA SONOWAL Biosciences and Bioengineering II T9 L5 s.sukanya 
+210106075 SUMEET DEEPAK AHIRE Biosciences and Bioengineering II T9 L5 a.sumeet
+210106076 SUMIT KUMAR Biosciences and Bioengineering II T9 L5 sumit.bio21
+210106077 SUMIT NAYAN Biosciences and Bioengineering II T9 L5 n.sumit
+210106078 TOSHAR BANIK Biosciences and Bioengineering II T9 L5 b.toshar
+210106079 UMANG UDBHAV Biosciences and Bioengineering II T9 L5 u.umang
+210106080 URVASHI SINHA Biosciences and Bioengineering II T9 L5 s.urvashi
+210106081 VAIRAGKAR SOURABH HARISH Biosciences and Bioengineering II T9 L5 h.vairagkar
+210106082 VANSH Biosciences and Bioengineering II T9 L5 v.vansh
+210106083 VIVIAN FRANCIS JOSEPH Biosciences and Bioengineering II T9 L5 j.vivian
+210106084 YASH MISHRA Biosciences and Bioengineering II T9 L5 y.mishra
+210106085 YASHRAJ VERMA Biosciences and Bioengineering II T9 L5 y.verma
+210108001 ABHAY DINESH NAIDU Electronics and Electrical EngineeringII T9 L5 a.naidu
+210108002 ABHISHEK KUMAR Electronics and Electrical EngineeringII T9 L5 abhishek.eee21
+210108003 ADESH KUMAR PATRA Electronics and Electrical EngineeringII T9 L5 p.adesh
+210108004 ANINDYA BISWAS Electronics and Electrical EngineeringII T9 L5 anindya.biswas
+210108005 ANIRUDH GUPTA Electronics and Electrical EngineeringII T9 L5 anirudh.gupta
+210108006 ANYA KSHIRSAGAR Electronics and Electrical EngineeringII T9 L5 k.anya
+210108007 ARUN RAJ Electronics and Electrical EngineeringII T9 L5 r.arun
+210108008 ASHISH KUMAR Electronics and Electrical EngineeringII T9 L5 ashish.eee21
+210108009 ASHUTOSH KUMAR Electronics and Electrical EngineeringII T9 L5 ashutosh.eee21
+210108010 AVINASH SHARMA Electronics and Electrical EngineeringII T9 L5 avinash.sharma
+210108011 BODDEPALLI SAKETH Electronics and Electrical EngineeringII T9 L5 b.saketh
+210108012 CHAUDHARI SHANTANU UJWAL Electronics and Electrical EngineeringII T9 L5 c.ujwal
+210108013 CHINTHA YETHI RAJ Electronics and Electrical EngineeringII T9 L5 c.raj
+210108014 DEVANSH SINGH Electronics and Electrical EngineeringII T9 L5 devansh.singh
+210108015 HARSH DIWAKER Electronics and Electrical EngineeringII T9 L5 h.diwaker
+210108016 HIMANSHU AGRAWAL Electronics and Electrical EngineeringII T9 L5 a.himanshu
+210108017 HIMANSHU JINDAL Electronics and Electrical EngineeringII T9 L5 h.jindal 
+210108018 HIMANSHU PRAMOD TEMBHE Electronics and Electrical EngineeringII T9 L5 t.himanshu
+210108019 KALYANKASTURE BHAKTI LAXMAN Electronics and Electrical EngineeringII T9 L5 k.laxman
+210108020 KANDURI ROHAN Electronics and Electrical EngineeringII T9 L5 r.kanduri
+210108021 KARAN GARG Electronics and Electrical EngineeringII T9 L5 g.karan
+210108022 KISHLAY SONI Electronics and Electrical EngineeringII T9 L5 s.kishlay
+210108023 KUMAR GAURAV Electronics and Electrical EngineeringII T9 L5 kumargaurav
+210108024 LAKSHIT SETHIA Electronics and Electrical EngineeringII T9 L5 s.lakshit
+210108025 LAKSHYA PATEL Electronics and Electrical EngineeringII T9 L5 p.lakshya
+210108026 MAHARSH BINDESHKUMAR RAVAL Electronics and Electrical EngineeringII T9 L5 r.maharsh
+210108027 MANAB JYOTI RABHA Electronics and Electrical EngineeringII T10 L5 r.manab
+210108028 MANISH KUMAR Electronics and Electrical EngineeringII T10 L5 manish.eee21
+210108029 MIHIKA PARAG DESHPANDE Electronics and Electrical EngineeringII T10 L5 d.mihika
+210108030 NAGASARAPU VENKATA KOUSHIK Electronics and Electrical EngineeringII T10 L5 k.nagasarapu
+210108031 NAMAN KUMAR JANGID Electronics and Electrical EngineeringII T10 L5 n.jangid
+210108032 NEELIMA PULIPATI Electronics and Electrical EngineeringII T10 L5 p.neelima
+210108033 OM CHOUDHARY Electronics and Electrical EngineeringII T10 L5 c.om
+210108034 PRAJKT ANANDRAO SONKUSARE Electronics and Electrical EngineeringII T10 L5 s.prajkt
+210108035 PRIYANSHU Electronics and Electrical EngineeringII T10 L5 priyanshu.eee21
+210108036 RAHUL VIVEK Electronics and Electrical EngineeringII T10 L5 v.rahul
+210108037 RAJNANDNI PARMAR Electronics and Electrical EngineeringII T10 L5 p.rajnandni
+210108038 RANJEET SOREN Electronics and Electrical EngineeringII T10 L5 r.soren
+210108039 RAVEENA KUMARI Electronics and Electrical EngineeringII T10 L5 r.kumari
+210108040 RINSHI KUMARI Electronics and Electrical EngineeringII T10 L5 rinshi
+210108041 RONAK SHARMA Electronics and Electrical EngineeringII T10 L5 ronak
+210108042 SANSKRITI Electronics and Electrical EngineeringII T10 L5 sanskriti
+210108043 SHAUN JOB Electronics and Electrical EngineeringII T10 L5 shaun
+210108044 SHIVAM AGRAWAL Electronics and Electrical EngineeringII T10 L5 shivam.agrawal
+210108045 SHLOK AGRAWAL Electronics and Electrical EngineeringII T10 L5 a.shlok
+210108046 SIDDHANT SHRIVASTAVA Electronics and Electrical EngineeringII T10 L5 s.shrivastava 
+210108047 SOUDHARM JHANJHREE Electronics and Electrical EngineeringII T10 L5 j.soudharm
+210108048 SOUMYADIP MONDAL Electronics and Electrical EngineeringII T10 L5 m.soumyadip
+210108049 SRISHTI MURARKA Electronics and Electrical EngineeringII T10 L5 m.srishti
+210108050 STUTI MATHUR Electronics and Electrical EngineeringII T10 L5 m.stuti
+210108051 SUNIL MEENA Electronics and Electrical EngineeringII T10 L5 sunilmeena
+210108052 SURAJ KUMAR SHIT Electronics and Electrical EngineeringII T10 L5 s.shit
+210108053 SWAPN AGARWAL Electronics and Electrical EngineeringII T10 L5 swapn
+210108054 TANUJA PAINKRA Electronics and Electrical EngineeringII T10 L5 t.painkra
+210108055 TEJAS KADRE Electronics and Electrical EngineeringII T10 L5 t.kadre
+210108056 TUSHAR YADAV Electronics and Electrical EngineeringII T10 L5 tushar.yadav
+210108057 UDAY PRATAP SINGH CHAUHAN Electronics and Electrical EngineeringII T10 L5 u.chauhan
+210108058 USILLA HASINI RAGA Electronics and Electrical EngineeringII T10 L5 u.raga
+210108059 VASU SAIN Electronics and Electrical EngineeringII T10 L5 v.sain
+210108060 VELAGAPALLI SAMUEL CRIPPS Electronics and Electrical EngineeringII T10 L5 v.cripps
+210108061 YASH JAIN Electronics and Electrical EngineeringII T10 L5 y.jain
+210108062 ZAINAB ALI Electronics and Electrical EngineeringII T10 L5 z.ali
+210101001 AASNEH PRASAD Computer Science and Engineering III T10 L6 p.aasneh
+210101002 ABHI AGARWAL Computer Science and Engineering III T10 L6 a.abhi
+210101003 ABHINAV KUMAR Computer Science and Engineering III T10 L6 abhinav.cse21
+210101004 ABINASH SONOWAL Computer Science and Engineering III T10 L6 s.abinash
+210101005 ACHINTYA GUPTA Computer Science and Engineering III T10 L6 g.achintya
+210101006 ACHYUT DHIMAN Computer Science and Engineering III T10 L6 d.achyut
+210101007 ADITTYA GUPTA Computer Science and Engineering III T10 L6 g.adittya
+210101008 ADITYA AGRAWAL Computer Science and Engineering III T10 L6 aditya.agrawal
+210101009 ADITYA GUPTA Computer Science and Engineering III T10 L6 aditya.g
+210101010 ADITYA GUPTA Computer Science and Engineering III T10 L6 aditya.cse21
+210101011 ADITYA PRABHASH Computer Science and Engineering III T10 L6 a.prabhash
+210101012 AJMERA RAKSHITH Computer Science and Engineering III T10 L6 a.rakshith
+210101013 AMIT KUMAR Computer Science and Engineering III T10 L6 amit.cse21
+210101014 ANAND KESHAV Computer Science and Engineering III T10 L6 anand.keshav
+210101015 ANKITA KANOJI Computer Science and Engineering III T11 L6 a.kanoji
+210101016 ANOOP SINGH Computer Science and Engineering III T11 L6 anoop.s
+210101017 ANSHU SINGH RAGHAV Computer Science and Engineering III T11 L6 r.anshu
+210101018 ANUMULA ADARSH Computer Science and Engineering III T11 L6 a.anumula
+210101019 ANUP KUMAR Computer Science and Engineering III T11 L6 anup.cse21
+210101020 ARANI RAJESH KUMAR Computer Science and Engineering III T11 L6 k.arani
+210101021 ARNAV SHARAN Computer Science and Engineering III T11 L6 a.sharan
+210101022 ARVIND KUMAR Computer Science and Engineering III T11 L6 arvind.cse21
+210101023 ASHISH BHARTI Computer Science and Engineering III T11 L6 ashish.bharti
+210101024 ATHARV JAIN Computer Science and Engineering III T11 L6 j.atharv
+210101025 AVINAV YADAV Computer Science and Engineering III T11 L6 y.avinav
+210101026 AYUSH ANAND SINGH Computer Science and Engineering III T11 L6 ayush.as
+210101027 BADDIGAM SIDDARDHAREDDY Computer Science and Engineering III T11 L6 s.baddigam
+210101028 BALAJI.S Computer Science and Engineering III T11 L6 b.balaji.s
+210101029 BANAVATHU SIMHADRI NAIK Computer Science and Engineering III T11 L6 n.banavathu
+210101030 BHARAT NARAH Computer Science and Engineering III T11 L6 n.bharat
+210101031 BHOGI SAI SATHWIK Computer Science and Engineering III T11 L6 s.bhogi
+210101032 BUKKE YOMITHA Computer Science and Engineering III T11 L6 y.bukke
+210101033 BUSSA SAI SANTHOSH Computer Science and Engineering III T11 L6 s.bussa
+210101034 DARSHAN PATNI Computer Science and Engineering III T11 L6 p.darshan
+210101035 DEVENDRA SWAMI Computer Science and Engineering III T11 L6 d.swami
+210101036 DEVIKA SINGH Computer Science and Engineering III T11 L6 s.devika
+210101037 DIVYA GARG Computer Science and Engineering III T11 L6 g.divya
+210101038 DURGESAM AJAY Computer Science and Engineering III T11 L6 a.durgesam
+210101039 FAIZAN AMIR Computer Science and Engineering III T11 L6 a.faizan
+210101040 GAURAV Computer Science and Engineering III T11 L6 gaurav.cse21
+210101041 GAUTAM JUNEJA Computer Science and Engineering III T11 L6 g.juneja
+210101042 GAUTAM SHARMA Computer Science and Engineering III T11 L6 gautam.sharma
+210101043 GHOLAP SARVESH SARJERAO Computer Science and Engineering III T11 L6 gholap
+210101044 GUTTHULA NAGA SATYA PREETAM Computer Science and Engineering III T11 L6 p.gutthula
+210101045 HARSH KATARA Computer Science and Engineering III T11 L6 h.katara
+210101046 HARSHAL JOSHI Computer Science and Engineering III T11 L6 j.harshal
+210101047 HARSHIT SEKSARIA Computer Science and Engineering III T11 L6 s.harshit
+210101048 HARSHIT SINGH PAKHARIYA Computer Science and Engineering III T11 L6 p.harshit
+210101049 HEMANT YADAV Computer Science and Engineering III T11 L6 y.hemant
+210101050 HIMANGSHU DEKA Computer Science and Engineering III T11 L6 h.deka
+210101051 HIMANSHI GAUTAM Computer Science and Engineering III T11 L6 himanshi
+210101052 JANAPATI SAI AJAY Computer Science and Engineering III T11 L6 j.ajay
+210101053 JETHWANI SIDDHANT PRATAP Computer Science and Engineering III T11 L6 p.jethwani
+210101054 KANNAN RUSTAGI Computer Science and Engineering III T11 L6 r.kannan
+210101055 KELLA USHA SREE Computer Science and Engineering III T11 L6 s.kella
+210101056 KODIMGARI DILEEP KUMAR Computer Science and Engineering III T11 L6 k.kodimgari
+210101057 KOLETI LAVANYA Computer Science and Engineering III T11 L6 l.koleti
+210101058 KOTA SATYA KIRAN Computer Science and Engineering III T11 L6 k.kota
+210101059 KSHITIJ MAURYA Computer Science and Engineering III T11 L6 kshitij.maurya
+210101060 KUNDAN MEENA Computer Science and Engineering III T11 L6 m.kundan
+210101061 LAKSHEET MEENA Computer Science and Engineering III T11 L6 m.laksheet
+210101062 LAKSHYA ONKARA Computer Science and Engineering III T11 L6 o.lakshya
+210101063 MADALA SAI DEEKSHITHA Computer Science and Engineering III T11 L6 d.madala
+210101064 MAJJI ADITYA Computer Science and Engineering III T11 L6 a.majji
+210101065 MAYANK CHOUDHARY Computer Science and Engineering III T12 L6 c.mayank
+210101066 MEGHNA BATTU Computer Science and Engineering III T12 L6 b.meghna
+210101067 MITHILESH GUPTA Computer Science and Engineering III T12 L6 g.mithilesh
+210101068 MOHIT KUMAR Computer Science and Engineering III T12 L6 mohit.cse21
+210101069 MUKKA KOUSHIK Computer Science and Engineering III T12 L6 k.mukka
+210101070 MUNAGALA DEVI NAGA SAI SRINIVAS Computer Science and Engineering III T12 L6 s.munagala
+210101071 NAGAPURI VANITHA Computer Science and Engineering III T12 L6 v.nagapuri
+210101072 NALADALA NAVADEEP Computer Science and Engineering III T12 L6 n.naladala
+210101073 NITYA PARIKH Computer Science and Engineering III T12 L6 p.nitya
+210101074 PARTH KASTURE Computer Science and Engineering III T12 L6 k.parth
+210101075 PATEL DHRUV Computer Science and Engineering III T12 L6 p.dhruv
+210101076 PIYUSH TAYAL Computer Science and Engineering III T12 L6 p.tayal
+210101077 POSA MOKSHITH Computer Science and Engineering III T12 L6 posa.mokshith
+210101078 PRANAV JAIN Computer Science and Engineering III T12 L6 j.pranav
+210101079 PRATHAM Computer Science and Engineering III T12 L6 pratham.cse21
+210101080 PRATHAM GOYAL Computer Science and Engineering III T12 L6 pratham.goyal
+210101081 PRINCE KUMAR Computer Science and Engineering III T12 L6 prince.k
+210101082 PRIYANSHU MAHAWAR Computer Science and Engineering III T12 L6 m.priyanshu
+210101083 PRIYANSHU RAJ Computer Science and Engineering III T12 L6 r.priyanshu
+210101084 RANGU RISHVANJA SIMHA Computer Science and Engineering III T12 L6 s.rangu
+210101085 RASHAAD ALI GAZANFAR ALI BAIG Computer Science and Engineering III T12 L6 b.rashaad
+210101086 RAVI LAHARE Computer Science and Engineering III T12 L6 l.ravi
+210101087 RAVI RANJAN KUMAR Computer Science and Engineering III T12 L6 rr.kumar
+210101088 RIDHIMAN KAUR DHINDSA Computer Science and Engineering III T12 L6 d.ridhiman
+210101089 RIYA MITTAL Computer Science and Engineering III T12 L6 m.riya
+210101090 SACHIN KUMAR GAUTAM Computer Science and Engineering III T12 L6 sachin.gautam
+210101091 SAHIL JAISWAL Computer Science and Engineering III T12 L6 j.sahil
+210101092 SAHIL MEHUL DANAYAK Computer Science and Engineering III T12 L6 d.sahil
+210101093 SANJANA SIRI KOLISETTY Computer Science and Engineering III T12 L6 k.sanjana
+210101094 SANNIDHI HEMANTH Computer Science and Engineering III T12 L6 h.sannidhi
+210101095 SATYARTH GUPTA Computer Science and Engineering III T12 L6 g.satyarth
+210101096 SHALLY KANDOI Computer Science and Engineering III T12 L6 k.shally
+210101097 SHASHANK KUMAR Computer Science and Engineering III T12 L6 shashank.cse21
+210101098 SHIVAM GARG Computer Science and Engineering III T12 L6 shivam.g
+210101099 SHREYA SARAF Computer Science and Engineering III T12 L6 s.saraf
+210101100 SPARSH MITTAL Computer Science and Engineering III T12 L7 m.sparsh
+210101101 SREEHARI C Computer Science and Engineering III T12 L7 c.sreehari
+210101102 SWAGAT BHUPENDRA SATHWARA Computer Science and Engineering III T12 L7 s.swagat
+210101103 TANISHA SALVI Computer Science and Engineering III T12 L7 s.tanisha
+210101104 TARUN KUMAR Computer Science and Engineering III T12 L7 k.tarun
+210101105 THOTA HARSHA VARDHANI Computer Science and Engineering III T12 L7 v.thota
+210101106 TRIPTI RANI KACHHAP Computer Science and Engineering III T12 L7 k.tripti
+210101107 VANGA NIKHITHA Computer Science and Engineering III T12 L7 n.vanga
+210101108 VANKAR DIVYESH KUMAR Computer Science and Engineering III T12 L7 k.vankar
+210101109 VARSHA Computer Science and Engineering III T12 L7 v.varsha
+210101110 VATSAL JAIN Computer Science and Engineering III T12 L7 j.vatsal
+210101111 VUTUKURU HEMA LAKSHMI SANDHYA Computer Science and Engineering III T12 L7 s.vutukuru
+210101112 YADAV HARSH PRADEEP Computer Science and Engineering III T12 L7 yadav.pradeep
+210101113 YASH RAJ SINGH Computer Science and Engineering III T12 L7 yash.singh
+210121001 ABHISHEK GAUTAM Engineering Physics III T12 L7 abhishek.gautam
+210121002 ABHISHEK KUMAR MONTY Engineering Physics III T13 L7 a.monty
+210121003 ADARSH SHARMA Engineering Physics III T13 L7 adarsh.phy21
+210121004 ADITYA DHANANJAY BAHIRAT Engineering Physics III T13 L7 a.bahirat
+210121005 AISHWARYA THAKARE Engineering Physics III T13 L7 a.thakare
+210121006 AJAYA KUMAR Engineering Physics III T13 L7 ajaya
+210121007 AKSHAT KUMAR Engineering Physics III T13 L7 k.akshat
+210121008 AMBESH DIXIT Engineering Physics III T13 L7 d.ambesh
+210121009 AMLAN BISWAL Engineering Physics III T13 L7 amlan.biswal
+210121010 ANIBA AGRAWAL Engineering Physics III T13 L7 a.aniba
+210121011 ANJUM ULAZIM Engineering Physics III T13 L7 u.anjum
+210121012 ANUBRATA SAHA Engineering Physics III T13 L7 anubrata
+210121013 ANUJ ANIL LOKHANDE Engineering Physics III T13 L7 l.anuj
+210121014 ANURAG KUSHWAH Engineering Physics III T13 L7 anurag.kushwah
+210121015 ARNAV PANDITA Engineering Physics III T13 L7 p.arnav
+210121016 ARYAMAN BANSAL Engineering Physics III T13 L7 b.aryaman
+210121017 ASHWIN RAJ SARMAH Engineering Physics III T13 L7 a.sarmah
+210121018 AUM PATEL Engineering Physics III T13 L7 p.aum
+210121019 AYUSH MOTHIYA Engineering Physics III T13 L7 a.mothiya
+210121020 CHHANDAM PAL Engineering Physics III T13 L7 c.pal
+210121021 DOLINA MUSHAHARY Engineering Physics III T13 L7 m.dolina 
+210121022 FELIX XAVIER MECHERIL Engineering Physics III T13 L7 m.felix
+210121023 GANDI DHEERAJ SIMHACHALAM NAIDU Engineering Physics III T13 L7 n.gandi
+210121024 GAURANG PARAG PATANKAR Engineering Physics III T13 L7 p.gaurang
+210121025 HARIBHAJAN KUSHWAHA Engineering Physics III T13 L7 k.haribhajan
+210121026 HARSHITA TRIPATHI Engineering Physics III T13 L7 t.harshita
+210121027 ISHITA SARASWAT Engineering Physics III T13 L7 i.saraswat
+210121028 JASH MUNI Engineering Physics III T13 L7 m.jash
+210121029 JASMINE Engineering Physics III T13 L7 jasmine.phy21
+210121030 KAMANI MADHAV Engineering Physics III T13 L7 m.kamani
+210121031 KARAN RAGHUWANSHI Engineering Physics III T13 L7 k.raghuwanshi
+210121032 KARTHIK ANAND S M Engineering Physics III T13 L7 karthik.m
+210121033 KETHAVATH NITHIN NAIK Engineering Physics III T13 L7 n.kethavath 
+210121034 MANKAR SHRUTI SADANAND Engineering Physics III T13 L7 s.mankar
+210121035 MANOJ BAMNIYA Engineering Physics III T13 L7 m.bamniya
+210121036 MUDIT GAUR Engineering Physics III T13 L7 m.gaur
+210121037 NAIK DHRUVA RAVINDRA Engineering Physics III T13 L7 n.ravindra
+210121038 NAMAN JAIN Engineering Physics III T13 L7 naman.j
+210121039 P. JOEL Engineering Physics III T13 L7 p.joel
+210121040 PALLAVI R GOWDA Engineering Physics III T13 L7 g.pallavi
+210121041 PRAKHAR BHATTACHARYA Engineering Physics III T13 L7 b.prakhar
+210121042 PRIYANSHU SINHA Engineering Physics III T13 L7 s.priyanshu
+210121043 RAJARSHI MANDAL Engineering Physics III T13 L7 m.rajarshi
+210121044 RAJEEV YADAV Engineering Physics III T13 L7 y.rajeev
+210121045 RAUNIT SINGH Engineering Physics III T13 L7 s.raunit
+210121046 RAVI RAJAK Engineering Physics III T13 L7 r.rajak
+210121047 S NAMAN SETHIYA Engineering Physics III T13 L7 s.sethiya
+210121048 SAISUCHITH P Engineering Physics III T13 L7 p.saisuchith
+210121049 SHAFAAT HUSSAIN KHAN Engineering Physics III T13 L7 k.shafaat
+210121050 SHRIVATHSA P S Engineering Physics III T13 L7 shrivathsa
+210121051 SHUBHECHHA MONDAL Engineering Physics III T13 L7 shubhechha
+210121052 SUBHAM KUMAR Engineering Physics III T14 L7 k.subham
+210121053 SUDHANSHU KUMAR Engineering Physics III T14 L7 sudhanshu.kumar
+210121054 SUNIDHI PRAKASH Engineering Physics III T14 L7 p.sunidhi
+210121055 SUNKARA VENKATA SAI MANOHAR Engineering Physics III T14 L7 m.sunkara
+210121056 TANISHA ACHYUT PRAKASH Engineering Physics III T14 L7 p.tanisha
+210121057 TEJAS PANDURANG TENDULKAR Engineering Physics III T14 L7 t.tejas
+210121058 UJJVAL CHARPOTA Engineering Physics III T14 L7 c.ujjval
+210121059 UJJWAL NILESH RAVANI Engineering Physics III T14 L7 u.ravani
+210121060 VANTERU AISHWARYA Engineering Physics III T14 L7 a.vanteru
+210121061 VEDANT P RAJPUROHIT Engineering Physics III T14 L7 r.vedant
+210121062 VEDHANT KRISHI S Engineering Physics III T14 L7 s.vedhant
+210121063 VISHAL SINGH MAHAR Engineering Physics III T14 L7 v.mahar
+210121064 VISHVJEET KUMAWAT Engineering Physics III T14 L7 vishvjeet
+210121065 VIVEK KUMAR Engineering Physics III T14 L7 vivek.phy21
+210121066 VIVEK S DOND Engineering Physics III T14 L7 v.dond
+210121067 YADAMREDDY MANASWI Engineering Physics III T14 L7 y.manaswi
+210121068 YASH Engineering Physics III T14 L7 y.yash
+210123001 AADITYA GUPTA Mathematics and Computing III T14 L7 g.aaditya
+210123002 AALOK BAGARIA Mathematics and Computing III T14 L7 b.aalok
+210123003 AASTHA KHANDELWAL Mathematics and Computing III T14 L7 k.aastha
+210123004 ABHINAV KUMAR Mathematics and Computing III T14 L7 abhinav.math21
+210123005 ADAPA JASHKAYTH Mathematics and Computing III T14 L7 j.adapa
+210123006 ANANT BANSAL Mathematics and Computing III T14 L7 b.anant
+210123007 ANKESHWAR SUKETH Mathematics and Computing III T14 L7 s.ankeshwar
+210123008 ARUSH GUPTA Mathematics and Computing III T14 L7 g.arush
+210123009 ASTHA RANE Mathematics and Computing III T14 L7 r.astha
+210123010 AYUSH KUMAR Mathematics and Computing III T14 L7 ayush.math21
+210123011 AYUSH KUMAR JAISWAL Mathematics and Computing III T14 L7 ayush.kj
+210123012 AYUSH VERMA Mathematics and Computing III T14 L7 ayush.v
+210123013 AYUSHMAN VERMA Mathematics and Computing III T14 L7 v.ayushman
+210123014 CHANDRASHEKAR A GIRIDHARAN Mathematics and Computing III T14 L7 chandrashekar
+210123015 DAKSH RAJ Mathematics and Computing III T14 L7 r.daksh
+210123016 DEVANSH VADNERE Mathematics and Computing III T14 L7 v.devansh
+210123017 DHRUVA SARAWGI Mathematics and Computing III T14 L7 s.dhruva
+210123018 DIPIT PATOWARI Mathematics and Computing III T14 L8 p.dipit
+210123019 DIYA UMESH AGRAWAL Mathematics and Computing III T14 L8 d.agrawal
+210123020 GADGE SARTHAK SIDDHESHWAR Mathematics and Computing III T14 L8 s.gadge
+210123021 GAMPA SATHVIK Mathematics and Computing III T14 L8 s.gampa
+210123022 GARGI GOYAL Mathematics and Computing III T14 L8 g.gargi
+210123023 GAURAV KATARIA Mathematics and Computing III T14 L8 gaurav.kataria
+210123024 HARSH KUMAR Mathematics and Computing III T14 L8 harsh.kumar
+210123025 HARSH KUMAR SINGH Mathematics and Computing III T14 L8 harsh.singh
+210123026 HIMANK GUPTA Mathematics and Computing III T14 L8 g.himank
+210123027 INAGANTI CHAKRADHAR Mathematics and Computing III T14 L8 c.inaganti
+210123028 JYOTISH Mathematics and Computing III T14 L8 j.jyotish
+210123029 JYOTISH KUMAR Mathematics and Computing III T14 L8 k.jyotish
+210123030 KAMINI MANGAL Mathematics and Computing III T14 L8 m.kamini
+210123031 KANCHARLA ABHIJITH GOUD Mathematics and Computing III T14 L8 g.kancharla
+210123032 KHUSHI TONGIA Mathematics and Computing III T14 L8 t.khushi
+210123033 KODUDULA ASHISH REDDY Mathematics and Computing III T14 L8 r.kodudula
+210123034 KOPPULA HRUSHIKESH Mathematics and Computing III T15 L8 h.koppula
+210123035 L S A MOURYA Mathematics and Computing III T15 L8 l.mourya
+210123036 LALHRIEMSANG FAIHRIEM Mathematics and Computing III T15 L8 l.faihriem
+210123037 LITESH KUMAR Mathematics and Computing III T15 L8 k.litesh
+210123038 MESHRAM PRASHIK MANGESH Mathematics and Computing III T15 L8 m.meshram
+210123039 MIHIT SREEJITH Mathematics and Computing III T15 L8 s.mihit
+210123040 MUDE SRIKANTH Mathematics and Computing III T15 L8 s.mude
+210123041 NALLAM KALYAN SATHVIK Mathematics and Computing III T15 L8 s.nallam
+210123042 NAYAN JYOTI PRASAD Mathematics and Computing III T15 L8 p.nayan
+210123043 PAVAN KUMAR ABHIROOP A Mathematics and Computing III T15 L8 pavan.a
+210123044 PITCHIKA ASHA SHREE Mathematics and Computing III T15 L8 s.pitchika
+210123045 PRANAVI SUDIREDDY Mathematics and Computing III T15 L8 s.pranavi
+210123046 PRIYANSHU DUBEY Mathematics and Computing III T15 L8 d.priyanshu
+210123047 PUNIT KUMAR Mathematics and Computing III T15 L8 k.punit
+210123048 RAHUL KUMAR Mathematics and Computing III T15 L8 rahul.math21
+210123049 RAJ BOROGAON Mathematics and Computing III T15 L8 b.raj
+210123050 RAYALA NAGA PRAGNA SRI Mathematics and Computing III T15 L8 s.rayala
+210123051 RISHIKA SARIA Mathematics and Computing III T15 L8 s.rishika
+210123052 SAJAL AGARWAL Mathematics and Computing III T15 L8 sajal.agarwal
+210123053 SANKALP SETIA Mathematics and Computing III T15 L8 s.sankalp
+210123054 SATYAM CHAURASIYA Mathematics and Computing III T15 L8 s.chaurasiya
+210123055 SAVI ABHIDNYAN KAWLE Mathematics and Computing III T15 L8 k.savi
+210123056 SAYALI MANISH RAJE Mathematics and Computing III T15 L8 r.sayali
+210123057 SHIFAT ALI Mathematics and Computing III T15 L8 a.shifat
+210123058 SHIVAM SINGH Mathematics and Computing III T15 L8 shivam.s
+210123059 SHUVRAJIT DEB ROY Mathematics and Computing III T15 L8 r.shuvrajit
+210123060 SISTLA GAYATRI Mathematics and Computing III T15 L8 g.sistla
+210123061 SOUMYADEEP PAUL Mathematics and Computing III T15 L8 p.soumyadeep
+210123062 SUMAN MEENA Mathematics and Computing III T15 L8 suman.math21
+210123063 TAMMIREDDY SRI VALLABH Mathematics and Computing III T15 L8 v.tammireddy
+210123064 TANISH Mathematics and Computing III T15 L8 t.tanish
+210123065 TANMAY BHATNAGAR Mathematics and Computing III T15 L8 b.tanmay
+210123066 TEJAS SUNIL BHALE Mathematics and Computing III T15 L8 b.tejas
+210123067 UPESH JEENGAR Mathematics and Computing III T15 L8 j.upesh
+210123068 UTHRISAR KHUNGUR BORO Mathematics and Computing III T15 L8 b.uthrisar
+210123069 VANKADAVATH ROHITH SAI Mathematics and Computing III T15 L8 s.vankadavath
+210123070 YATHARTH GUPTA Mathematics and Computing III T15 L8 g.yatharth
+210123071 YATHARTH YASH Mathematics and Computing III T15 L8 y.yatharth
+210107001 ABHIJEET SINHA Chemical Engineering IV T15 L8 abhijeet.sinha
+210107002 ABHIJIT PANDEY Chemical Engineering IV T15 L8 abhijit.pandey
+210107003 ABHINAV KUMAR Chemical Engineering IV T15 L8 abhinav.cl21
+210107004 ABHISHEK RATHI Chemical Engineering IV T15 L8 abhishek.rathi
+210107005 ADITYA KUMAR Chemical Engineering IV T15 L8 aditya.cl21
+210107006 ADITYA PRASAD MOHANTY Chemical Engineering IV T15 L8 a.mohanty
+210107007 ADITYA RAJ BAGRI Chemical Engineering IV T15 L8 a.bagri
+210107008 AKHILA REDDY A Chemical Engineering IV T15 L8 a.akhila
+210107009 ANAND MANGAL Chemical Engineering IV T15 L8 m.anand
+210107010 ANANYA SIVAKUMAR Chemical Engineering IV T15 L8 s.ananya
+210107011 ANKIT KUMAR Chemical Engineering IV T15 L8 ankit.cl21
+210107012 ANSHUL PATEL Chemical Engineering IV T15 L8 anshul.patel
+210107013 ARUSHI GUPTA Chemical Engineering IV T16 L8 g.arushi
+210107014 ARYAN RAY Chemical Engineering IV T16 L8 aryan.ray
+210107015 AYUSH JAIN Chemical Engineering IV T16 L8 ayush.cl21
+210107016 AYUSH MISHRA Chemical Engineering IV T16 L8 m.ayush
+210107017 AYUSH TIWARI Chemical Engineering IV T16 L8 ayush.tiwari
+210107018 BABITA Chemical Engineering IV T16 L8 babita.cl21
+210107019 BHOLE DNYANESH NILESH Chemical Engineering IV T16 L8 n.bhole
+210107020 BROTISH PAL Chemical Engineering IV T16 L8 p.brotish
+210107021 CHINMOYEE SONOWAL Chemical Engineering IV T16 L8 s.chinmoyee
+210107022 DEEPTANSH SHARMA Chemical Engineering IV T16 L8 s.deeptansh
+210107023 DEV JYOTI Chemical Engineering IV T16 L8 j.dev
+210107024 DHRUV AGARWAL Chemical Engineering IV T16 L8 a.dhruv
+210107025 DIGVIJAY SINGH Chemical Engineering IV T16 L8 digvijay.singh
+210107026 DISHA AGARWAL Chemical Engineering IV T16 L8 a.disha
+210107027 FAYYAD HASEEB Chemical Engineering IV T16 L8 h.fayyad
+210107028 GAURAV MEGHWAL Chemical Engineering IV T16 L8 g.meghwal
+210107029 GOURAB MONDAL Chemical Engineering IV T16 L8 m.gourab
+210107030 GOUTAM KUMAR HEMBRAM Chemical Engineering IV T16 L8 h.goutam
+210107031 GOVIND MADHAV VYAS Chemical Engineering IV T16 L8 v.govind
+210107032 GUNDETI SRIVARDHAN Chemical Engineering IV T16 L8 s.gundeti
+210107033 HARSHIT KATARIYA Chemical Engineering IV T16 L8 k.harshit
+210107034 JAGDISH PANDA Chemical Engineering IV T16 L8 p.jagdish
+210107035 JANHVI ANURAG Chemical Engineering IV T16 L8 a.janhvi
+210107036 JAWAJI SRIKANTH Chemical Engineering IV T16 L8 s.jawaji
+210107037 JUJU SAIKIA Chemical Engineering IV T16 L8 s.juju
+210107038 KAMATHAM KRISHNA PRIYA Chemical Engineering IV T16 L8 p.kamatham
+210107039 KANV CHAUDHARY Chemical Engineering IV T16 L8 c.kanv
+210107040 KARAN RABIDAS Chemical Engineering IV T16 L8 k.rabidas
+210107041 KAUSTUBH DHOTE Chemical Engineering IV T16 L8 d.kaustubh
+210107042 KESH PRATAP SINGH Chemical Engineering IV T16 L8 s.kesh
+210107043 KESHAV KULHARI Chemical Engineering IV T16 L8 k.kulhari
+210107044 KHUSHI AGRAWAL Chemical Engineering IV T16 L8 khushi.a
+210107045 KISLAY Chemical Engineering IV T16 L8 kislay.cl21
+210107046 KRUTHIKESH M KOPPARAM Chemical Engineering IV T16 L9 k.kruthikesh
+210107047 KUNAL PAL Chemical Engineering IV T16 L9 kunal.pal
+210107048 MAYANK ANAND Chemical Engineering IV T16 L9 mayank.anand
+210107049 MD ADIL AKHTAR Chemical Engineering IV T16 L9 md.akhtar
+210107050 MESHRAM ANSHIKA AJAY Chemical Engineering IV T16 L9 meshram.ajay
+210107051 MIHIR ANAND Chemical Engineering IV T16 L9 mihir.anand
+210107052 MOHIT KUMAR SHARMA Chemical Engineering IV T16 L9 mohit.ks
+210107053 MOKSHIKA KURETI Chemical Engineering IV T16 L9 k.mokshika 
+210107054 MRITYUNJAY SHARMA Chemical Engineering IV T16 L9 mrityunjay.s
+210107055 NANDINI PRIYA Chemical Engineering IV T16 L9 p.nandini
+210107056 NARESH NAMDEO THAKARE Chemical Engineering IV T16 L9 t.naresh
+210107057 NIKITA BORAH Chemical Engineering IV T16 L9 b.nikita
+210107058 NITIN Chemical Engineering IV T16 L9 nitin.cl21
+210107059 NITYAJIT BASUMATARY Chemical Engineering IV T16 L9 b.nityajit
+210107060 ONKAR DUBEY Chemical Engineering IV T16 L9 d.onkar
+210107061 PARAMESH A CHIRANG Chemical Engineering IV T16 L9 c.paramesh
+210107062 PRANAV IGNATIOUS Chemical Engineering IV T16 L9 i.pranav
+210107063 PRANAY DEVENDRA BAMBOLE Chemical Engineering IV T17 L9 b.pranay
+210107064 PRANSHU Chemical Engineering IV T17 L9 pranshu.cl21
+210107065 PRATIKSHA Chemical Engineering IV T17 L9 pratiksha.cl21
+210107066 PRIYANSHU KUMAR Chemical Engineering IV T17 L9 priyanshu.kumar
+210107067 RADHIKA DARGAR Chemical Engineering IV T17 L9 d.radhika
+210107068 RAJENDRA PRASAD SARSWAT Chemical Engineering IV T17 L9 s.rajendra
+210107069 RASHMI BAJAJ Chemical Engineering IV T17 L9 r.bajaj
+210107070 RAVI BHUSHAN PRATAP Chemical Engineering IV T17 L9 ravi.pratap
+210107071 RISHABH RAJ Chemical Engineering IV T17 L9 rishabh.r
+210107072 RISHIBALAJI SRINIVASAN Chemical Engineering IV T17 L9 s.rishibalaji
+210107073 ROHIT SATISH CHALAK Chemical Engineering IV T17 L9 r.chalak
+210107074 RONIT MALVI Chemical Engineering IV T17 L9 r.malvi
+210107075 SABIR SINGH Chemical Engineering IV T17 L9 s.sabir
+210107076 SARTHAK TAYAL Chemical Engineering IV T17 L9 t.sarthak
+210107077 SHASHANK KUMAR GUPTA Chemical Engineering IV T17 L9 shashank.kg
+210107078 SHIVAM ADBHUTE Chemical Engineering IV T17 L9 a.shivam
+210107079 SHIVAM KALAMBE Chemical Engineering IV T17 L9 s.kalambe
+210107080 SHIVARAJ R KOLLI Chemical Engineering IV T17 L9 k.shivaraj
+210107081 SIDDHANT SRIVASTAVA Chemical Engineering IV T17 L9 siddhant.s
+210107082 SNEHA BALAJI Chemical Engineering IV T17 L9 b.sneha
+210107083 SONALI TUDU Chemical Engineering IV T17 L9 s.tudu 
+210107084 SUGAM BARMAN Chemical Engineering IV T17 L9 b.sugam
+210107085 SUGATA CHAKRABORTY Chemical Engineering IV T17 L9 c.sugata
+210107086 SURAJ KUAMR YADAV Chemical Engineering IV T17 L9 suraj.yadav
+210107087 SWAPNIL BAJETHA Chemical Engineering IV T17 L9 b.swapnil
+210107088 TARUN Chemical Engineering IV T17 L9 t.tarun
+210107089 THAMKE SHREYASI DAYAL Chemical Engineering IV T17 L9 d.thamke
+210107090 UDDIPTTA DEKA Chemical Engineering IV T17 L9 d.uddiptta
+210107091 UTKARSH RAJA Chemical Engineering IV T17 L9 r.utkarsh
+210107092 VAIBHAV JAIN Chemical Engineering IV T17 L9 vaibhav.jain
+210107093 VARUN SAXENA Chemical Engineering IV T17 L9 varun.cl21
+210107094 VIDHISHA AGARWAL Chemical Engineering IV T17 L9 a.vidhisha
+210107095 VIJENDRA SINGH BHATI Chemical Engineering IV T17 L9 b.vijendra
+210107096 VINEET R JAGGA Chemical Engineering IV T17 L9 j.vineet
+210107097 YESHUDAN BORA Chemical Engineering IV T17 L9 b.yeshudan
+210107098 ZAKIA FARHAT Chemical Engineering IV T17 L9 f.zakia
+210122001 ABHINAV MISHRA Chemical Science and Technology IV T17 L9 abhinav.mishra
+210122002 AMBIKA SINGH Chemical Science and Technology IV T17 L9 s.ambika
+210122003 ANCHIT RAJIV PRASAD Chemical Science and Technology IV T17 L9 p.anchit
+210122004 ANJALI PRIYA Chemical Science and Technology IV T17 L9 p.anjali
+210122005 ANKIT DAS Chemical Science and Technology IV T17 L9 ankit.das
+210122006 ANKIT KUMAR Chemical Science and Technology IV T17 L9 ankit.chem21
+210122007 ANKIT VARSHNEY Chemical Science and Technology IV T17 L9 ankit.varshney
+210122008 ANURAG PANDEY Chemical Science and Technology IV T17 L9 anurag.pandey
+210122009 ANURAG SINGH Chemical Science and Technology IV T17 L9 anurag.chem21
+210122010 ANUSHKA NEGI Chemical Science and Technology IV T17 L9 n.anushka
+210122011 ARIJIT MOHANTA Chemical Science and Technology IV T17 L9 m.arijit
+210122012 AYUSH SINGH Chemical Science and Technology IV T17 L9 ayush.chem21
+210122013 BANOTHU KARTHIK Chemical Science and Technology IV T17 L9 banothu.karthik
+210122014 BHARGAV SONOWAL Chemical Science and Technology IV T17 L9 bhargav.sonowal
+210122015 DEEPANSHU POFARE Chemical Science and Technology IV T18 L9 p.deepanshu
+210122016 DEEPENDRA KUMAR SINGH Chemical Science and Technology IV T18 L9 s.deependra
+210122017 DEEPESH KAUSHIK Chemical Science and Technology IV T18 L9 k.deepesh
+210122018 DEVESH ANJANE Chemical Science and Technology IV T18 L9 a.devesh
+210122019 DIVYESH AGARWAL Chemical Science and Technology IV T18 L9 a.divyesh
+210122020 HARSHITA AGRAWAL Chemical Science and Technology IV T18 L9 a.harshita
+210122021 KANIKE UDAY Chemical Science and Technology IV T18 L9 u.kanike
+210122022 KHYATI CHAUDHARY Chemical Science and Technology IV T18 L9 c.khyati
+210122023 KOMAN MORUNGMAN MARING Chemical Science and Technology IV T18 L9 m.koman
+210122024 KRISHNA KUMAR Chemical Science and Technology IV T18 L9 krishna.chem21
+210122025 KULDEEP RANJAN Chemical Science and Technology IV T18 L9 r.kuldeep
+210122026 KUMAWAT RAGHUVIR MOHANLAL Chemical Science and Technology IV T18 L9 m.kumawat
+210122027 KUNAL SINGH Chemical Science and Technology IV T18 L9 kunal.singh
+210122028 MANJU Chemical Science and Technology IV T18 L9 manju.chem21
+210122029 MOHIT ADESH PATIL Chemical Science and Technology IV T18 L9 mohit.patil
+210122030 MOHIT ANAND Chemical Science and Technology IV T18 L9 mohit.anand
+210122031 MONUJ GOGOI Chemical Science and Technology IV T18 L9 g.monuj
+210122032 PAWAR CHANDANA Chemical Science and Technology IV T18 L9 p.chandana 
+210122033 PRAKASH KUMAR Chemical Science and Technology IV T18 L9 prakash.chem21
+210122034 PRANATHI NIDADAVOLU Chemical Science and Technology IV T18 L9 n.pranathi
+210122035 PRANJAL SAXENA Chemical Science and Technology IV T18 L9 p.saxena
+210122036 PRATHAM GARG Chemical Science and Technology IV T18 L9 g.pratham
+210122037 PUNNYA PRASANNAN Chemical Science and Technology IV T18 L9 p.punnya
+210122038 RACHIT AWASTHI Chemical Science and Technology IV T18 L9 a.rachit
+210122039 RAGHAV ARORA Chemical Science and Technology IV T18 L9 raghav.arora
+210122040 RAHUL KUMAR Chemical Science and Technology IV T18 L9 rahul.chem21
+210122041 RAJ KASHYAP Chemical Science and Technology IV T18 L9 k.raj
+210122042 RAJAT PATODI Chemical Science and Technology IV T18 L9 r.patodi
+210122043 RAJAT SINGHAL Chemical Science and Technology IV T18 L9 rajat.singhal
+210122044 RAJEEV VERMA Chemical Science and Technology IV T18 L9 v.rajeev
+210122045 RAJESHWARI RAJIV JADHAV Chemical Science and Technology IV T18 L9 j.rajeshwari
+210122046 RANJAN KUMAR Chemical Science and Technology IV T18 L9 k.ranjan
+210122047 RAUNAK AGARWAL Chemical Science and Technology IV T18 L10 a.raunak
+210122048 RIDDHIMAN GHATAK Chemical Science and Technology IV T18 L10 g.riddhiman
+210122049 RISHAV RAJ Chemical Science and Technology IV T18 L10 rishav.raj
+210122050 RISHI PATEL Chemical Science and Technology IV T18 L10 p.rishi
+210122051 RITIKA REGE Chemical Science and Technology IV T18 L10 r.ritika
+210122052 SARTHAK KUMAR Chemical Science and Technology IV T18 L10 k.sarthak
+210122053 SAYAN DEY SARKAR Chemical Science and Technology IV T18 L10 s.sayan
+210122054 SHIVAM Chemical Science and Technology IV T18 L10 shivam.chem21
+210122055 SHIVAM KURDA Chemical Science and Technology IV T18 L10 s.kurda
+210122056 SHREYA ANAND Chemical Science and Technology IV T18 L10 shreya.anand
+210122057 SHRUT DOBARIYA Chemical Science and Technology IV T18 L10 d.shrut
+210122058 SIDDHARTH KASHYAP Chemical Science and Technology IV T18 L10 siddharth.kashyap
+210122059 SUMIT KUMAR RAJAK Chemical Science and Technology IV T18 L10 s.rajak
+210122060 SWAPNIL GANGRADE Chemical Science and Technology IV T18 L10 s.gangrade
+210122061 SWATI SINHA Chemical Science and Technology IV T18 L10 swati.sinha
+210122062 TANVEER UL MUSTAFA Chemical Science and Technology IV T18 L10 m.tanveer
+210122063 TUSHAR KHOLWAL Chemical Science and Technology IV T18 L10 t.kholwal
+210122064 VEDANT SUBHASH PHAD Chemical Science and Technology IV T18 L10 v.phad
+210122065 YASH VARDHAN SRIVASTAVA Chemical Science and Technology IV T19 L10 y.srivastava
+210150001 ABHIST YADAV Data Science and Artificial IntelligenceIV T19 L10 y.abhist
+210150002 ADITYA GUPTA Data Science and Artificial IntelligenceIV T19 L10 aditya.dsai21
+210150003 ADITYA MANDAL Data Science and Artificial IntelligenceIV T19 L10 aditya.mandal
+210150004 ADITYA SURYAWANSHI Data Science and Artificial IntelligenceIV T19 L10 a.suryawanshi
+210150005 ANANT KACHOLIA Data Science and Artificial IntelligenceIV T19 L10 k.anant
+210150006 ANKITA ANAND Data Science and Artificial IntelligenceIV T19 L10 ankita.anand
+210150007 ARYAN LATH Data Science and Artificial IntelligenceIV T19 L10 l.aryan
+210150008 ARYAN SINGH Data Science and Artificial IntelligenceIV T19 L10 aryan.s
+210150009 BORRA LAKSHYA Data Science and Artificial IntelligenceIV T19 L10 l.borra
+210150010 DEVANSH BHARDWAJ Data Science and Artificial IntelligenceIV T19 L10 b.devansh
+210150011 HARSH RAJ Data Science and Artificial IntelligenceIV T19 L10 harsh.raj
+210150012 KATTA SRIKAR REDDY Data Science and Artificial IntelligenceIV T19 L10 r.katta
+210150013 NISHCHAY NILABH Data Science and Artificial IntelligenceIV T19 L10 n.nishchay
+210150014 PALTHIYA LAANITH CHOUHAN Data Science and Artificial IntelligenceIV T19 L10 c.palthiya
+210150015 POKALA RITHURAJ Data Science and Artificial IntelligenceIV T19 L10 r.pokala
+210150016 SHUBHI AGARWAL Data Science and Artificial IntelligenceIV T19 L10 a.shubhi
+210150017 SUBHASH PATEL Data Science and Artificial IntelligenceIV T19 L10 p.subhash
+210150018 SUNANDA K H Data Science and Artificial IntelligenceIV T19 L10 h.sunanda
+210150019 THANISH BOLLA Data Science and Artificial IntelligenceIV T19 L10 b.thanish
+210150020 VARUN NAGPAL Data Science and Artificial IntelligenceIV T19 L10 n.varun
+210205001 AADRA RAJESH Design IV T19 L10 aadra
+210205002 AARYA VINAYAK GHODKE Design IV T19 L10 a.ghodke
+210205003 AASHI AGARWAL Design IV T19 L10 aashi
+210205004 AATHITHYA M Design IV T19 L10 aathithya
+210205005 ABDUL BASITH K Design IV T19 L10 abdul.k
+210205006 ADHUAITU KRISHNA H K Design IV T19 L10 adhuaitu.k
+210205007 ADITHYAN SUNIL KUMAR Design IV T19 L10 k.adithyan
+210205008 ADITYA PARMAR Design IV T19 L10 a.parmar
+210205009 ADITYA PRATAP SINGH Design IV T19 L10 aditya.des21
+210205010 ALAINA VINAYAK Design IV T19 L10 alaina
+210205011 AMEY MAKARAND KAREKAR Design IV T19 L10 a.karekar
+210205012 AMOGHA MARGASSERY Design IV T19 L10 a.margassery
+210205013 ANANDU KRISHNAN Design IV T19 L10 anandu
+210205014 ANNA MERIL JOY Design IV T19 L10 a.joy
+210205015 ANSHUL SUTHAR Design IV T19 L10 s.anshul
+210205016 ANUBHAB SAHOO Design IV T19 L10 anubhab
+210205017 APARNA CHINTU Design IV T19 L10 a.chintu
+210205018 ARYA K Design IV T19 L10 arya.k
+210205019 ARYAN SHARMA Design IV T19 L10 aryan.sharma
+210205020 BEDANTA MANDAL Design IV T19 L10 bedanta.mandal
+210205021 CHAITANYA KUNAL RAUT Design IV T19 L10 r.chaitanya
+210205022 CHOROVELU RINGA Design IV T19 L10 r.chorovelu
+210205023 DARSAN SUNOJ Design IV T19 L10 s.darsan
+210205024 DAWN LAWRENCE ROY Design IV T19 L10 r.dawn
+210205025 DHWANI MEHUL DOSHI Design IV T19 L10 d.dhwani
+210205026 HARSH DEEP Design IV T19 L10 h.deep
+210205027 JEEVAN JOLLY Design IV T19 L10 j.jolly
+210205028 KAVINAS SUNDARAMURTHY Design IV T19 L10 s.kavinas
+210205029 KAYRA REYING PAO Design IV T19 L10 p.kayra
+210205030 KUMKUM YADAV Design IV T20 L10 y.kumkum
+210205031 M THANUSH Design IV T20 L10 m.thanush
+210205032 MAHIMA PRASANNA Design IV T20 L10 p.mahima
+210205033 MANAJIT SAHA Design IV T20 L10 s.manajit
+210205034 MAYANK KUMAR SINGH Design IV T20 L10 mayank.singh
+210205035 MOHIT SUMBRUI Design IV T20 L10 mohit.sumbrui
+210205036 MUKTA YUVRAJ SANGARE Design IV T20 L10 mukta.sangare
+210205037 NEHA PANDEY Design IV T20 L10 neha.pandey
+210205038 NIRAN VISWAS K Design IV T20 L10 niran.k
+210205039 NIRUPAMA S Design IV T20 L10 nirupama.s
+210205040 PARTH SHARMA Design IV T20 L10 parth.sharma
+210205041 PRAJWAL LAXMAN KUWAR Design IV T20 L10 prajwal.kuwar
+210205042 ROHIT SUHAS KONDAYE Design IV T20 L10 rohit.kondaye
+210205043 SAANVI GIRISH BAPAT Design IV T20 L10 saanvi.bapat
+210205044 SAJAL PRAMOD RISWADKAR Design IV T20 L10 r.sajal
+210205045 SAKSHI MALLAH Design IV T20 L10 s.mallah
+210205046 SAMHITA LOKESH Design IV T20 L10 samhita
+210205047 SANBARTO MONDAL Design IV T20 L10 sanbarto
+210205048 SHIVAM KUMAR ROY Design IV T20 L10 shivam.roy
+210205049 SHREYA SARKAR Design IV T20 L10 shreya.sarkar
+210205050 SUSHANT AMOL SAWANT Design IV T20 L10 sushant.sawant
+210205051 SWAPNIL BANERJEE Design IV T20 L10 swapnil.banerjee
+210205052 SWARA CHACHAD Design IV T20 L10 swara.chachad
+210205053 URMI GOPALAKRISHNA Design IV T20 L10 g.urmi
+210205054 VAISHNAVI UPADHYAY Design IV T20 L10 u.vaishnavi
+210205055 VIKNESH SURYA S S Design IV T20 L10 s.viknesh
+210205056 VIRAT DUBEY Design IV T20 L10 d.virat
+210205057 VISHNU CHANDAN KOLAPARTHI Design IV T20 L10 v.kolaparthi
+210205058 YASH JITENDRA CHAUHAN Design IV T20 L10 y.chauhan
+210205059 YASH KISHOR KAMBLE Design IV T20 L10 y.kamble
+210205060 YASH VERMA Design IV T20 L10 yash.verma
