@@ -98,6 +98,9 @@ function readTextFile(file, rollno) {
                 for(let i = 0; i < args.length; i++) {
                     let breaked = args[i].split(" ");
                     if (breaked[0] == rollno) {
+
+                        localStorage.setItem("lastroll", rollno);
+
                         let le = breaked.length;
                         var username = breaked[le-1];
                         var l = breaked[le-2];
@@ -268,4 +271,11 @@ function hide() {
     var my = document.getElementById("myself");
     my.style.transform = "scale(1)";
     my.style.display = "block";
+}
+
+window.onload = function() {
+    let lastrn = localStorage.getItem("lastroll");
+    if (lastrn) {
+        document.getElementById("in").value = lastrn;
+    }
 }
