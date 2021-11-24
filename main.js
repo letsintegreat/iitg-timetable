@@ -86,12 +86,9 @@ var codeToCourse = {
 function readTextFile(file, rollno) {
     var rawFile = new XMLHttpRequest();
     rawFile.open("GET", file, false);
-    rawFile.onreadystatechange = function ()
-    {
-        if(rawFile.readyState === 4)
-        {
-            if(rawFile.status === 200 || rawFile.status == 0)
-            {
+    rawFile.onreadystatechange = function () {
+        if(rawFile.readyState === 4) {
+            if(rawFile.status === 200 || rawFile.status == 0) {
                 var allData = rawFile.responseText;
                 let args = allData.split("\n");
                 let found = false;
@@ -102,7 +99,7 @@ function readTextFile(file, rollno) {
                         localStorage.setItem("lastroll", rollno);
 
                         let le = breaked.length;
-                        var username = breaked[le-1];
+                        // var username = breaked[le-1];
                         var l = breaked[le-2];
                         var t = breaked[le-3];
                         var d = breaked[le-4];
@@ -113,11 +110,9 @@ function readTextFile(file, rollno) {
                         let day = mydate.getDay();
 
                         document.getElementById("en").innerHTML = "";
-
                         let chosenCustomDay = document.getElementById("customday").value;
 
                         if (chosenCustomDay == "0") {
-
                             if (day == 0) {
                                 document.getElementById("en").innerHTML = "Today's free.<br>Tommorow's Time Table:";
                                 day = 1;
@@ -149,7 +144,6 @@ function readTextFile(file, rollno) {
 
                         } else {
                             day = Number(chosenCustomDay);
-
                             document.getElementById("en").innerHTML += "Custom Day<br>";
 
                             if (day == 1) document.getElementById("en").innerHTML += "(Monday)";
@@ -159,7 +153,7 @@ function readTextFile(file, rollno) {
                             else if (day == 5) document.getElementById("en").innerHTML += "(Friday)";
                         }
 
-                        if (d == "I" || d == "II") { // division is 1 or 2
+                        if (d == "I" || d == "II") {
 
                             document.getElementById("tslot1").innerHTML = "08.00 - 08.55";
                             document.getElementById("tslot2").innerHTML = "09.00 - 11.55";
@@ -191,7 +185,8 @@ function readTextFile(file, rollno) {
                                 document.getElementById("dslot7").innerHTML = "Lecture Class -- " + codeToCourse[c3cc] + " (" + c3cc + ")";
                             }
                             document.getElementById("dslot8").innerHTML = "FREE!";
-                        } else { // division is 3 or 4
+
+                        } else {
 
                             document.getElementById("tslot1").innerHTML = "08.00 - 08.55";
                             document.getElementById("tslot2").innerHTML = "09.00 - 09.55";
@@ -228,7 +223,7 @@ function readTextFile(file, rollno) {
 
                         }
                         document.getElementById("alias").innerHTML = alias + ",<br>" + "You have been allotted Divison " + d + ", " + t + " and " + l + ".";
-                        show("");
+                        show();
 
                         found = true;
                         break;
@@ -247,17 +242,18 @@ function func() {
     var inp = document.getElementById("in");
     var tinp = inp.value;
     if (tinp === "") {
-        alert("You think I am a fool?!");
+        alert("You think I am a fool?! I mean, enter your roll no already~");
     } else {
         readTextFile("groupings.txt", tinp);
     }
 }
 
-function show(outp) {
+function show() {
     var res = document.getElementById("result");
     res.style.display = "block";
-    setTimeout(() => {res.style.transform = "scale(1)"}, 100);
-    // res.style.transform = "scale(1)";
+    setTimeout(() => {
+        res.style.transform = "scale(1)"
+    }, 100);
     var my = document.getElementById("myself");
     my.style.transform = "scale(0)";
     my.style.display = "none";
@@ -266,8 +262,9 @@ function show(outp) {
 function hide() {
     var res = document.getElementById("result");
     res.style.transform = "scale(0)";
-    setTimeout(() => {res.style.display = "none";}, 1005);
-    // res.style.display = "none";
+    setTimeout(() => {
+        res.style.display = "none";
+    }, 1005);
     var my = document.getElementById("myself");
     my.style.transform = "scale(1)";
     my.style.display = "block";
