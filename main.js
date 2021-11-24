@@ -67,7 +67,9 @@ var alphaToCode = {
     "B": "EE 101",
     "C": "MA 101",
     "D": "CH 101",
-    "E": "PH 101"
+    "E": "PH 101",
+    "F": "F",
+    "G": "G"
 }
 
 var codeToCourse = {
@@ -107,25 +109,51 @@ function readTextFile(file, rollno) {
                         const mydate = new Date();
                         let day = mydate.getDay();
 
-                        if (day == 0) {
-                            document.getElementById("en").innerHTML = "Today's free.<br>Tommorow (Monday) Time Table:";
-                            day = 1;
-                        } else if (day == 6) {
-                            document.getElementById("en").innerHTML = "Today and Tommorow are free.<br>Monday Time Table:";
-                            day = 1;
-                        } else {
-                            let currHour = new Date().getHours();
-                            if (currHour < 17) {
-                                document.getElementById("en").innerHTML = "Today's Time Table:";
+                        document.getElementById("en").innerHTML = "";
+
+                        let chosenCustomDay = document.getElementById("customday").value;
+
+                        if (chosenCustomDay == "0") {
+
+                            if (day == 0) {
+                                document.getElementById("en").innerHTML = "Today's free.<br>Tommorow's Time Table:";
+                                day = 1;
+                            } else if (day == 6) {
+                                document.getElementById("en").innerHTML = "Today and Tommorow are free.<br>Monday Time Table:";
+                                day = 1;
                             } else {
-                                if (day == 5) {
-                                    document.getElementById("en").innerHTML = "Today's classes are over.<br>Monday Time Table:";
-                                    day=1;
+                                let currHour = new Date().getHours();
+                                if (currHour < 17) {
+                                    document.getElementById("en").innerHTML = "Today's Time Table:";
                                 } else {
-                                    document.getElementById("en").innerHTML = "Today's classes are over.<br>Tommorow's Time Table:";
-                                    day++;
+                                    if (day == 5) {
+                                        document.getElementById("en").innerHTML = "Today's classes are over.<br>Monday Time Table:";
+                                        day=1;
+                                    } else {
+                                        document.getElementById("en").innerHTML = "Today's classes are over.<br>Tommorow's Time Table:";
+                                        day++;
+                                    }
                                 }
                             }
+
+                            document.getElementById("en").innerHTML += "<br>";
+
+                            if (day == 1) document.getElementById("en").innerHTML += "(Monday)";
+                            else if (day == 2) document.getElementById("en").innerHTML += "(Tuesday)";
+                            else if (day == 3) document.getElementById("en").innerHTML += "(Wednesday)";
+                            else if (day == 4) document.getElementById("en").innerHTML += "(Thursday)";
+                            else if (day == 5) document.getElementById("en").innerHTML += "(Friday)";
+
+                        } else {
+                            day = Number(chosenCustomDay);
+
+                            document.getElementById("en").innerHTML += "Custom Day<br>";
+
+                            if (day == 1) document.getElementById("en").innerHTML += "(Monday)";
+                            else if (day == 2) document.getElementById("en").innerHTML += "(Tuesday)";
+                            else if (day == 3) document.getElementById("en").innerHTML += "(Wednesday)";
+                            else if (day == 4) document.getElementById("en").innerHTML += "(Thursday)";
+                            else if (day == 5) document.getElementById("en").innerHTML += "(Friday)";
                         }
 
                         if (d == "I" || d == "II") { // division is 1 or 2

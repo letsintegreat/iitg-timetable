@@ -102,6 +102,31 @@ input {
     outline: 0 none;
 }
 
+select {
+  height: 30px;
+  align-self: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+  border-radius: 20px;
+  border: none;
+  text-align: center;
+  background-color: #104768;
+  color: white;
+  font-weight: 700;
+  font-size: 1rem;
+  font-family: 'Roboto Condensed';
+  outline: 0 none;
+}
+
+select option { 
+  color: #104768; 
+  text-align: center;
+  background-color: white;
+  font-weight: 400;
+}
+
 @keyframes atten {
     10% {
         transform: scale(1);
