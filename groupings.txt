@@ -422,68 +422,68 @@
 210106083 VIVIAN FRANCIS JOSEPH Biosciences and Bioengineering II T9 L5 j.vivian
 210106084 YASH MISHRA Biosciences and Bioengineering II T9 L5 y.mishra
 210106085 YASHRAJ VERMA Biosciences and Bioengineering II T9 L5 y.verma
-210108001 ABHAY DINESH NAIDU Electronics and Electrical EngineeringII T9 L5 a.naidu
-210108002 ABHISHEK KUMAR Electronics and Electrical EngineeringII T9 L5 abhishek.eee21
-210108003 ADESH KUMAR PATRA Electronics and Electrical EngineeringII T9 L5 p.adesh
-210108004 ANINDYA BISWAS Electronics and Electrical EngineeringII T9 L5 anindya.biswas
-210108005 ANIRUDH GUPTA Electronics and Electrical EngineeringII T9 L5 anirudh.gupta
-210108006 ANYA KSHIRSAGAR Electronics and Electrical EngineeringII T9 L5 k.anya
-210108007 ARUN RAJ Electronics and Electrical EngineeringII T9 L5 r.arun
-210108008 ASHISH KUMAR Electronics and Electrical EngineeringII T9 L5 ashish.eee21
-210108009 ASHUTOSH KUMAR Electronics and Electrical EngineeringII T9 L5 ashutosh.eee21
-210108010 AVINASH SHARMA Electronics and Electrical EngineeringII T9 L5 avinash.sharma
-210108011 BODDEPALLI SAKETH Electronics and Electrical EngineeringII T9 L5 b.saketh
-210108012 CHAUDHARI SHANTANU UJWAL Electronics and Electrical EngineeringII T9 L5 c.ujwal
-210108013 CHINTHA YETHI RAJ Electronics and Electrical EngineeringII T9 L5 c.raj
-210108014 DEVANSH SINGH Electronics and Electrical EngineeringII T9 L5 devansh.singh
-210108015 HARSH DIWAKER Electronics and Electrical EngineeringII T9 L5 h.diwaker
-210108016 HIMANSHU AGRAWAL Electronics and Electrical EngineeringII T9 L5 a.himanshu
-210108017 HIMANSHU JINDAL Electronics and Electrical EngineeringII T9 L5 h.jindal 
-210108018 HIMANSHU PRAMOD TEMBHE Electronics and Electrical EngineeringII T9 L5 t.himanshu
-210108019 KALYANKASTURE BHAKTI LAXMAN Electronics and Electrical EngineeringII T9 L5 k.laxman
-210108020 KANDURI ROHAN Electronics and Electrical EngineeringII T9 L5 r.kanduri
-210108021 KARAN GARG Electronics and Electrical EngineeringII T9 L5 g.karan
-210108022 KISHLAY SONI Electronics and Electrical EngineeringII T9 L5 s.kishlay
-210108023 KUMAR GAURAV Electronics and Electrical EngineeringII T9 L5 kumargaurav
-210108024 LAKSHIT SETHIA Electronics and Electrical EngineeringII T9 L5 s.lakshit
-210108025 LAKSHYA PATEL Electronics and Electrical EngineeringII T9 L5 p.lakshya
-210108026 MAHARSH BINDESHKUMAR RAVAL Electronics and Electrical EngineeringII T9 L5 r.maharsh
-210108027 MANAB JYOTI RABHA Electronics and Electrical EngineeringII T10 L5 r.manab
-210108028 MANISH KUMAR Electronics and Electrical EngineeringII T10 L5 manish.eee21
-210108029 MIHIKA PARAG DESHPANDE Electronics and Electrical EngineeringII T10 L5 d.mihika
-210108030 NAGASARAPU VENKATA KOUSHIK Electronics and Electrical EngineeringII T10 L5 k.nagasarapu
-210108031 NAMAN KUMAR JANGID Electronics and Electrical EngineeringII T10 L5 n.jangid
-210108032 NEELIMA PULIPATI Electronics and Electrical EngineeringII T10 L5 p.neelima
-210108033 OM CHOUDHARY Electronics and Electrical EngineeringII T10 L5 c.om
-210108034 PRAJKT ANANDRAO SONKUSARE Electronics and Electrical EngineeringII T10 L5 s.prajkt
-210108035 PRIYANSHU Electronics and Electrical EngineeringII T10 L5 priyanshu.eee21
-210108036 RAHUL VIVEK Electronics and Electrical EngineeringII T10 L5 v.rahul
-210108037 RAJNANDNI PARMAR Electronics and Electrical EngineeringII T10 L5 p.rajnandni
-210108038 RANJEET SOREN Electronics and Electrical EngineeringII T10 L5 r.soren
-210108039 RAVEENA KUMARI Electronics and Electrical EngineeringII T10 L5 r.kumari
-210108040 RINSHI KUMARI Electronics and Electrical EngineeringII T10 L5 rinshi
-210108041 RONAK SHARMA Electronics and Electrical EngineeringII T10 L5 ronak
-210108042 SANSKRITI Electronics and Electrical EngineeringII T10 L5 sanskriti
-210108043 SHAUN JOB Electronics and Electrical EngineeringII T10 L5 shaun
-210108044 SHIVAM AGRAWAL Electronics and Electrical EngineeringII T10 L5 shivam.agrawal
-210108045 SHLOK AGRAWAL Electronics and Electrical EngineeringII T10 L5 a.shlok
-210108046 SIDDHANT SHRIVASTAVA Electronics and Electrical EngineeringII T10 L5 s.shrivastava 
-210108047 SOUDHARM JHANJHREE Electronics and Electrical EngineeringII T10 L5 j.soudharm
-210108048 SOUMYADIP MONDAL Electronics and Electrical EngineeringII T10 L5 m.soumyadip
-210108049 SRISHTI MURARKA Electronics and Electrical EngineeringII T10 L5 m.srishti
-210108050 STUTI MATHUR Electronics and Electrical EngineeringII T10 L5 m.stuti
-210108051 SUNIL MEENA Electronics and Electrical EngineeringII T10 L5 sunilmeena
-210108052 SURAJ KUMAR SHIT Electronics and Electrical EngineeringII T10 L5 s.shit
-210108053 SWAPN AGARWAL Electronics and Electrical EngineeringII T10 L5 swapn
-210108054 TANUJA PAINKRA Electronics and Electrical EngineeringII T10 L5 t.painkra
-210108055 TEJAS KADRE Electronics and Electrical EngineeringII T10 L5 t.kadre
-210108056 TUSHAR YADAV Electronics and Electrical EngineeringII T10 L5 tushar.yadav
-210108057 UDAY PRATAP SINGH CHAUHAN Electronics and Electrical EngineeringII T10 L5 u.chauhan
-210108058 USILLA HASINI RAGA Electronics and Electrical EngineeringII T10 L5 u.raga
-210108059 VASU SAIN Electronics and Electrical EngineeringII T10 L5 v.sain
-210108060 VELAGAPALLI SAMUEL CRIPPS Electronics and Electrical EngineeringII T10 L5 v.cripps
-210108061 YASH JAIN Electronics and Electrical EngineeringII T10 L5 y.jain
-210108062 ZAINAB ALI Electronics and Electrical EngineeringII T10 L5 z.ali
+210108001 ABHAY DINESH NAIDU Electronics and Electrical Engineering II T9 L5 a.naidu
+210108002 ABHISHEK KUMAR Electronics and Electrical Engineering II T9 L5 abhishek.eee21
+210108003 ADESH KUMAR PATRA Electronics and Electrical Engineering II T9 L5 p.adesh
+210108004 ANINDYA BISWAS Electronics and Electrical Engineering II T9 L5 anindya.biswas
+210108005 ANIRUDH GUPTA Electronics and Electrical Engineering II T9 L5 anirudh.gupta
+210108006 ANYA KSHIRSAGAR Electronics and Electrical Engineering II T9 L5 k.anya
+210108007 ARUN RAJ Electronics and Electrical Engineering II T9 L5 r.arun
+210108008 ASHISH KUMAR Electronics and Electrical Engineering II T9 L5 ashish.eee21
+210108009 ASHUTOSH KUMAR Electronics and Electrical Engineering II T9 L5 ashutosh.eee21
+210108010 AVINASH SHARMA Electronics and Electrical Engineering II T9 L5 avinash.sharma
+210108011 BODDEPALLI SAKETH Electronics and Electrical Engineering II T9 L5 b.saketh
+210108012 CHAUDHARI SHANTANU UJWAL Electronics and Electrical Engineering II T9 L5 c.ujwal
+210108013 CHINTHA YETHI RAJ Electronics and Electrical Engineering II T9 L5 c.raj
+210108014 DEVANSH SINGH Electronics and Electrical Engineering II T9 L5 devansh.singh
+210108015 HARSH DIWAKER Electronics and Electrical Engineering II T9 L5 h.diwaker
+210108016 HIMANSHU AGRAWAL Electronics and Electrical Engineering II T9 L5 a.himanshu
+210108017 HIMANSHU JINDAL Electronics and Electrical Engineering II T9 L5 h.jindal 
+210108018 HIMANSHU PRAMOD TEMBHE Electronics and Electrical Engineering II T9 L5 t.himanshu
+210108019 KALYANKASTURE BHAKTI LAXMAN Electronics and Electrical Engineering II T9 L5 k.laxman
+210108020 KANDURI ROHAN Electronics and Electrical Engineering II T9 L5 r.kanduri
+210108021 KARAN GARG Electronics and Electrical Engineering II T9 L5 g.karan
+210108022 KISHLAY SONI Electronics and Electrical Engineering II T9 L5 s.kishlay
+210108023 KUMAR GAURAV Electronics and Electrical Engineering II T9 L5 kumargaurav
+210108024 LAKSHIT SETHIA Electronics and Electrical Engineering II T9 L5 s.lakshit
+210108025 LAKSHYA PATEL Electronics and Electrical Engineering II T9 L5 p.lakshya
+210108026 MAHARSH BINDESHKUMAR RAVAL Electronics and Electrical Engineering II T9 L5 r.maharsh
+210108027 MANAB JYOTI RABHA Electronics and Electrical Engineering II T10 L5 r.manab
+210108028 MANISH KUMAR Electronics and Electrical Engineering II T10 L5 manish.eee21
+210108029 MIHIKA PARAG DESHPANDE Electronics and Electrical Engineering II T10 L5 d.mihika
+210108030 NAGASARAPU VENKATA KOUSHIK Electronics and Electrical Engineering II T10 L5 k.nagasarapu
+210108031 NAMAN KUMAR JANGID Electronics and Electrical Engineering II T10 L5 n.jangid
+210108032 NEELIMA PULIPATI Electronics and Electrical Engineering II T10 L5 p.neelima
+210108033 OM CHOUDHARY Electronics and Electrical Engineering II T10 L5 c.om
+210108034 PRAJKT ANANDRAO SONKUSARE Electronics and Electrical Engineering II T10 L5 s.prajkt
+210108035 PRIYANSHU Electronics and Electrical Engineering II T10 L5 priyanshu.eee21
+210108036 RAHUL VIVEK Electronics and Electrical Engineering II T10 L5 v.rahul
+210108037 RAJNANDNI PARMAR Electronics and Electrical Engineering II T10 L5 p.rajnandni
+210108038 RANJEET SOREN Electronics and Electrical Engineering II T10 L5 r.soren
+210108039 RAVEENA KUMARI Electronics and Electrical Engineering II T10 L5 r.kumari
+210108040 RINSHI KUMARI Electronics and Electrical Engineering II T10 L5 rinshi
+210108041 RONAK SHARMA Electronics and Electrical Engineering II T10 L5 ronak
+210108042 SANSKRITI Electronics and Electrical Engineering II T10 L5 sanskriti
+210108043 SHAUN JOB Electronics and Electrical Engineering II T10 L5 shaun
+210108044 SHIVAM AGRAWAL Electronics and Electrical Engineering II T10 L5 shivam.agrawal
+210108045 SHLOK AGRAWAL Electronics and Electrical Engineering II T10 L5 a.shlok
+210108046 SIDDHANT SHRIVASTAVA Electronics and Electrical Engineering II T10 L5 s.shrivastava 
+210108047 SOUDHARM JHANJHREE Electronics and Electrical Engineering II T10 L5 j.soudharm
+210108048 SOUMYADIP MONDAL Electronics and Electrical Engineering II T10 L5 m.soumyadip
+210108049 SRISHTI MURARKA Electronics and Electrical Engineering II T10 L5 m.srishti
+210108050 STUTI MATHUR Electronics and Electrical Engineering II T10 L5 m.stuti
+210108051 SUNIL MEENA Electronics and Electrical Engineering II T10 L5 sunilmeena
+210108052 SURAJ KUMAR SHIT Electronics and Electrical Engineering II T10 L5 s.shit
+210108053 SWAPN AGARWAL Electronics and Electrical Engineering II T10 L5 swapn
+210108054 TANUJA PAINKRA Electronics and Electrical Engineering II T10 L5 t.painkra
+210108055 TEJAS KADRE Electronics and Electrical Engineering II T10 L5 t.kadre
+210108056 TUSHAR YADAV Electronics and Electrical Engineering II T10 L5 tushar.yadav
+210108057 UDAY PRATAP SINGH CHAUHAN Electronics and Electrical Engineering II T10 L5 u.chauhan
+210108058 USILLA HASINI RAGA Electronics and Electrical Engineering II T10 L5 u.raga
+210108059 VASU SAIN Electronics and Electrical Engineering II T10 L5 v.sain
+210108060 VELAGAPALLI SAMUEL CRIPPS Electronics and Electrical Engineering II T10 L5 v.cripps
+210108061 YASH JAIN Electronics and Electrical Engineering II T10 L5 y.jain
+210108062 ZAINAB ALI Electronics and Electrical Engineering II T10 L5 z.ali
 210101001 AASNEH PRASAD Computer Science and Engineering III T10 L6 p.aasneh
 210101002 ABHI AGARWAL Computer Science and Engineering III T10 L6 a.abhi
 210101003 ABHINAV KUMAR Computer Science and Engineering III T10 L6 abhinav.cse21
