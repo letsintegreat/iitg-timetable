@@ -79,7 +79,7 @@ var codeToCourse = {
     "CH 101": "Chemistry",
     "PH 101": "Physics - I",
     "CH 110": "Chemistry Laboratory",
-    "ME 110": "Physics Laboratory",
+    "ME 110": "Physics Workshop",
     "PH 110": "Physics Laboratory"
 }
 
