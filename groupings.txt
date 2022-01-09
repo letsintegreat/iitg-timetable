@@ -899,26 +899,26 @@
 210122063 TUSHAR KHOLWAL Chemical Science and Technology IV T18 L10 t.kholwal
 210122064 VEDANT SUBHASH PHAD Chemical Science and Technology IV T18 L10 v.phad
 210122065 YASH VARDHAN SRIVASTAVA Chemical Science and Technology IV T19 L10 y.srivastava
-210150001 ABHIST YADAV Data Science and Artificial IntelligenceIV T19 L10 y.abhist
-210150002 ADITYA GUPTA Data Science and Artificial IntelligenceIV T19 L10 aditya.dsai21
-210150003 ADITYA MANDAL Data Science and Artificial IntelligenceIV T19 L10 aditya.mandal
-210150004 ADITYA SURYAWANSHI Data Science and Artificial IntelligenceIV T19 L10 a.suryawanshi
-210150005 ANANT KACHOLIA Data Science and Artificial IntelligenceIV T19 L10 k.anant
-210150006 ANKITA ANAND Data Science and Artificial IntelligenceIV T19 L10 ankita.anand
-210150007 ARYAN LATH Data Science and Artificial IntelligenceIV T19 L10 l.aryan
-210150008 ARYAN SINGH Data Science and Artificial IntelligenceIV T19 L10 aryan.s
-210150009 BORRA LAKSHYA Data Science and Artificial IntelligenceIV T19 L10 l.borra
-210150010 DEVANSH BHARDWAJ Data Science and Artificial IntelligenceIV T19 L10 b.devansh
-210150011 HARSH RAJ Data Science and Artificial IntelligenceIV T19 L10 harsh.raj
-210150012 KATTA SRIKAR REDDY Data Science and Artificial IntelligenceIV T19 L10 r.katta
-210150013 NISHCHAY NILABH Data Science and Artificial IntelligenceIV T19 L10 n.nishchay
-210150014 PALTHIYA LAANITH CHOUHAN Data Science and Artificial IntelligenceIV T19 L10 c.palthiya
-210150015 POKALA RITHURAJ Data Science and Artificial IntelligenceIV T19 L10 r.pokala
-210150016 SHUBHI AGARWAL Data Science and Artificial IntelligenceIV T19 L10 a.shubhi
-210150017 SUBHASH PATEL Data Science and Artificial IntelligenceIV T19 L10 p.subhash
-210150018 SUNANDA K H Data Science and Artificial IntelligenceIV T19 L10 h.sunanda
-210150019 THANISH BOLLA Data Science and Artificial IntelligenceIV T19 L10 b.thanish
-210150020 VARUN NAGPAL Data Science and Artificial IntelligenceIV T19 L10 n.varun
+210150001 ABHIST YADAV Data Science and Artificial Intelligence IV T19 L10 y.abhist
+210150002 ADITYA GUPTA Data Science and Artificial Intelligence IV T19 L10 aditya.dsai21
+210150003 ADITYA MANDAL Data Science and Artificial Intelligence IV T19 L10 aditya.mandal
+210150004 ADITYA SURYAWANSHI Data Science and Artificial Intelligence IV T19 L10 a.suryawanshi
+210150005 ANANT KACHOLIA Data Science and Artificial Intelligence IV T19 L10 k.anant
+210150006 ANKITA ANAND Data Science and Artificial Intelligence IV T19 L10 ankita.anand
+210150007 ARYAN LATH Data Science and Artificial Intelligence IV T19 L10 l.aryan
+210150008 ARYAN SINGH Data Science and Artificial Intelligence IV T19 L10 aryan.s
+210150009 BORRA LAKSHYA Data Science and Artificial Intelligence IV T19 L10 l.borra
+210150010 DEVANSH BHARDWAJ Data Science and Artificial Intelligence IV T19 L10 b.devansh
+210150011 HARSH RAJ Data Science and Artificial Intelligence IV T19 L10 harsh.raj
+210150012 KATTA SRIKAR REDDY Data Science and Artificial Intelligence IV T19 L10 r.katta
+210150013 NISHCHAY NILABH Data Science and Artificial Intelligence IV T19 L10 n.nishchay
+210150014 PALTHIYA LAANITH CHOUHAN Data Science and Artificial Intelligence IV T19 L10 c.palthiya
+210150015 POKALA RITHURAJ Data Science and Artificial Intelligence IV T19 L10 r.pokala
+210150016 SHUBHI AGARWAL Data Science and Artificial Intelligence IV T19 L10 a.shubhi
+210150017 SUBHASH PATEL Data Science and Artificial Intelligence IV T19 L10 p.subhash
+210150018 SUNANDA K H Data Science and Artificial Intelligence IV T19 L10 h.sunanda
+210150019 THANISH BOLLA Data Science and Artificial Intelligence IV T19 L10 b.thanish
+210150020 VARUN NAGPAL Data Science and Artificial Intelligence IV T19 L10 n.varun
 210205001 AADRA RAJESH Design IV T19 L10 aadra
 210205002 AARYA VINAYAK GHODKE Design IV T19 L10 a.ghodke
 210205003 AASHI AGARWAL Design IV T19 L10 aashi
