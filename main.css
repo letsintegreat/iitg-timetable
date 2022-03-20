@@ -25,7 +25,7 @@ body {
 
 #en {
     color: #fdaf01;
-    border: 3px solid #fdaf01;
+    border: 1px solid #fdaf01;
     display: inline-block;
     border-radius: 20px;
     padding: 20px;
@@ -85,7 +85,7 @@ button {
     cursor: pointer;
     border: 1px solid #fdaf01;
     border-radius: 20px;
-    margin: 20px; padding-left: 10px; padding-right: 10px;
+    margin: 20px; padding-left: 15px; padding-right: 15px;
     font-weight: bold;
     font-size: 1rem;
     outline: 0 none;
