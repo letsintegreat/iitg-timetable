@@ -8,79 +8,80 @@ var timetable = {
 
 var al = {
     1: {
-        "L6": "CH 110",
-        "L7": "ME 110",
-        "L8": "CE 101"
+        "L1": "CS 110",
+        "L2": "ME 110",
+        "L3": "EE 102"
     },
     2: {
-        "L9": "CH 110",
-        "L10": "ME 110",
-        "L6": "CE 101"
+        "L4": "CS 110",
+        "L5": "ME 110",
+        "L1": "EE 102"
     },
     3: {
-        "L7": "CH 110",
-        "L8": "ME 110",
-        "L9": "CE 101"
+        "L2": "CS 110",
+        "L3": "ME 110",
+        "L4": "EE 102"
     },
     4: {
-        "L10": "CH 110",
-        "L6": "ME 110",
-        "L7": "CE 101"
+        "L5": "CS 110",
+        "L1": "ME 110",
+        "L2": "EE 102"
     },
     5: {
-        "L8": "CH 110",
-        "L9": "ME 110",
-        "L10": "CE 101"
+        "L3": "CS 110",
+        "L4": "ME 110",
+        "L5": "EE 102"
     }   
 }
 
 var ml = {
     1: {
-        "L1": "CH 110",
-        "L2": "PH 110",
-        "L3": "CE 101"
+        "L6": "CS 110",
+        "L7": "PH 110",
+        "L8": "EE 102"
     },
     2: {
-        "L4": "CH 110",
-        "L5": "PH 110",
-        "L1": "CE 101"
+        "L9": "CS 110",
+        "L10": "PH 110",
+        "L6": "EE 102"
     },
     3: {
-        "L2": "CH 110",
-        "L3": "PH 110",
-        "L4": "CE 101"
+        "L7": "CS 110",
+        "L8": "PH 110",
+        "L9": "EE 102"
     },
     4: {
-        "L5": "CH 110",
-        "L1": "PH 110",
-        "L2": "CE 101"
+        "L10": "CS 110",
+        "L6": "PH 110",
+        "L7": "EE 102"
     },
     5: {
-        "L3": "CH 110",
-        "L4": "PH 110",
-        "L5": "CE 101"
+        "L8": "CS 110",
+        "L9": "PH 110",
+        "L10": "EE 102"
     }   
 }
 
 var alphaToCode = {
-    "A": "CE 101",
-    "B": "EE 101",
-    "C": "MA 101",
-    "D": "CH 101",
-    "E": "PH 101",
+    "A": "ME 101",
+    "B": "BT 101",
+    "C": "MA 102",
+    "D": "CS 101",
+    "E": "PH 102",
     "F": "F",
     "G": "G"
 }
 
 var codeToCourse = {
-    "CE 101": "Engineering Drawing",
-    "EE 101": "Basic Electronics",
-    "MA 101": "Mathematics - I",
-    "CH 101": "Chemistry",
-    "PH 101": "Physics - I",
-    "CH 110": "Chemistry Laboratory",
+    "EE 102": "Basic Electronics Laboratory",
+    "MA 102": "Mathematics - II",
+    "BT 101": "Introductory Biology",
+    "PH 102": "Physics - II",
+    "CS 101": "Introduction to Computing",
     "ME 110": "Physics Workshop",
-    "PH 110": "Physics Laboratory"
+    "PH 110": "Physics Laboratory",
+    "CS 110": "Computing Laboratory",
+    "ME 101": "Engineering Mechanics"
 }
 
 function readTextFile(file, rollno) {
@@ -153,7 +154,7 @@ function readTextFile(file, rollno) {
                             else if (day == 5) document.getElementById("en").innerHTML += "(Friday)";
                         }
 
-                        if (d == "I" || d == "II") {
+                        if (d == "III" || d == "IV") {
 
                             document.getElementById("tslot1").innerHTML = "08.00 - 08.55";
                             document.getElementById("tslot2").innerHTML = "09.00 - 11.55";
