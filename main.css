@@ -25,7 +25,7 @@ body {
 
 #en {
     color: #fdaf01;
-    border: 3px solid #104768;
+    border: 3px solid #fdaf01;
     display: inline-block;
     border-radius: 20px;
     padding: 20px;
@@ -45,7 +45,7 @@ h1 {
 }
 
 .timeslot {
-    color: #13547a;
+    color: black;
     text-align: center;
     font-family: "DM Sans";
     font-size: 2rem;
@@ -294,7 +294,7 @@ select option {
   /* The actual content */
   .content {
     padding: 20px 30px;
-    background-color: white;
+    background-color: #fdaf01;
     position: relative;
     border-radius: 6px;
   }
